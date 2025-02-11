@@ -2,11 +2,8 @@
 # Importar bibliotecas:
 import pandas as pd
 import numpy as np
-import seaborn as sns
-import matplotlib.colors as mcolors
 import plotly.express as px
 import streamlit as st
-import time
 
 # Ler Dataset:
 df_afogamentos = pd.read_csv('df_afogamentos.csv')
