@@ -1,0 +1,746 @@
+data,hora,acionamento,cidade,bairro,situacao_ocorrencia,sexo,idade,classificacao_vitima,ano,mês
+2020-01-21,1900-01-01 13:08:00,CO,Fernando de Noronha,Praia da Cacimba do Padre,Não Atendida,,,Vítima ferida,2020,janeiro
+2020-02-12,1900-01-01 07:30:00,CO,Fernando de Noronha,Praia da Conceição ou de Italcable,Atendida,M,,,2020,fevereiro
+2020-03-15,1900-01-01 14:05:00,Outro,Fernando de Noronha,Praia da Conceição ou de Italcable,Atendida,F,33,Vítima ilesa,2020,março
+2020-03-15,1900-01-01 14:05:00,Outro,Fernando de Noronha,Praia da Conceição ou de Italcable,Atendida,M,36,Vítima ilesa,2020,março
+2020-01-22,1900-01-01 13:40:00,CO,Fernando de Noronha,Praia da Cacimba do Padre,Não Atendida,,,Vítima ferida,2020,janeiro
+2020-11-05,1900-01-01 15:35:00,CO,Fernando de Noronha,Praia da Conceição ou de Italcable,Atendida,Não identificado,,,2020,novembro
+2020-12-16,1900-01-01 07:30:00,193,Fernando de Noronha,"Praia do Cachorro, na Vila dos Remédios ",Atendida,M,36,Vítima fatal,2020,dezembro
+2020-12-28,1900-01-01 15:00:00,Pessoalmente,Fernando de Noronha,Praia da Conceição ou de Italcable,Atendida,M,33,Vítima ilesa,2020,dezembro
+2020-12-29,1900-01-01 07:30:00,CO do Grupamento,Fernando de Noronha,"Praia do Cachorro, na Vila dos Remédios ",Atendida,F,34,Vítima ilesa,2020,dezembro
+2020-01-01,1900-01-01 09:05:00,Pessoalmente,Recife,Pina ,Atendida,M,,Vítima ferida,2020,janeiro
+2020-01-12,1900-01-01 14:00:00,Pessoalmente,Recife,Boa Viagem ,Atendida,M,20,Vítima ferida,2020,janeiro
+2020-01-15,1900-01-01 12:50:00,Pessoalmente,Olinda,Casa Caiada,Atendida,M,,Vítima ilesa,2020,janeiro
+2020-02-09,1900-01-01 19:00:00,Pessoalmente,Recife,Boa Viagem ,Atendida,F,40,Vítima ilesa,2020,fevereiro
+2020-02-16,1900-01-01 13:10:00,Pessoalmente,Recife,Boa Viagem ,Atendida,F,,Vítima ilesa,2020,fevereiro
+2020-02-16,1900-01-01 12:30:00,CO,Jaboatão dos Guararapes,Barra de Jangada,Atendida,F,23,Vítima ilesa,2020,fevereiro
+2020-02-16,1900-01-01 12:30:00,Outro,Jaboatão dos Guararapes,Piedade,Atendida,M,18,Vítima ilesa,2020,fevereiro
+2020-02-22,1900-01-01 17:20:00,Pessoalmente,Recife,Boa Viagem ,Atendida,F,24,Vítima ilesa,2020,fevereiro
+2020-02-24,1900-01-01 14:30:00,Pessoalmente,Ilha de Itamaracá,Jaguaribe,Atendida,F,,Vítima ilesa,2020,fevereiro
+2020-02-25,1900-01-01 12:34:00,Pessoalmente,Jaboatão dos Guararapes,Piedade,Atendida,F,47,Vítima ilesa,2020,fevereiro
+2020-02-25,1900-01-01 12:50:00,Pessoalmente,Recife,Boa Viagem ,Atendida,M,68,Vítima ilesa,2020,fevereiro
+2020-03-06,1900-01-01 16:00:00,Pessoalmente,Recife,Boa Viagem ,Atendida,F,,Vítima ferida,2020,março
+2020-03-08,1900-01-01 11:20:00,Pessoalmente,Recife,Boa Viagem ,Atendida,M,26,Vítima ilesa,2020,março
+2020-06-14,1900-01-01 15:09:00,193,Fernando de Noronha,Baía de Santo Antônio,Não Atendida,,,Vítima ferida,2020,junho
+2020-03-14,1900-01-01 12:28:00,Pessoalmente,Olinda,Bairro Novo,Atendida,M,19,Vítima ferida,2020,março
+2020-03-31,1900-01-01 16:30:00,Pessoalmente,Recife,Boa Viagem ,Atendida,M,,Vítima ferida,2020,março
+2020-03-31,1900-01-01 16:30:00,Pessoalmente,Recife,Boa Viagem ,Atendida,F,,Vítima ferida,2020,março
+2020-04-08,1900-01-01 14:15:00,Pessoalmente,Recife,Brasília Teimosa,Atendida,M,,Vítima ilesa,2020,abril
+2020-04-17,1900-01-01 13:49:00,Pessoalmente,Olinda,Bairro Novo,Atendida,M,57,Vítima ilesa,2020,abril
+2020-03-10,1900-01-01 17:34:00,CO,Jaboatão dos Guararapes,Candeias,Não Atendida,,,Vítima ferida,2020,março
+2020-05-17,1900-01-01 12:10:00,CO,Recife,Recife (bairro),Atendida,M,32,Vítima ilesa,2020,maio
+2020-06-05,1900-01-01 16:50:00,Pessoalmente,Recife,Boa Viagem ,Atendida,M,20,Vítima ilesa,2020,junho
+2020-06-22,1900-01-01 15:25:00,193,Jaboatão dos Guararapes,Piedade,Atendida,M,17,Vítima ferida,2020,junho
+2020-07-16,1900-01-01 14:20:00,Pessoalmente,Recife,Boa Viagem ,Atendida,M,30,Vítima ilesa,2020,julho
+2020-07-16,1900-01-01 08:00:00,Pessoalmente,Recife,Boa Viagem ,Atendida,M,14,Vítima ilesa,2020,julho
+2020-07-16,1900-01-01 08:00:00,Pessoalmente,Recife,Boa Viagem ,Atendida,M,12,Vítima ilesa,2020,julho
+2020-07-19,1900-01-01 15:15:00,Pessoalmente,Recife,Boa Viagem ,Atendida,M,25,Vítima ilesa,2020,julho
+2020-08-07,1900-01-01 11:05:00,Pessoalmente,Jaboatão dos Guararapes,Piedade,Atendida,M,17,Vítima ferida,2020,agosto
+2020-08-19,1900-01-01 15:45:00,Pessoalmente,Recife,Boa Viagem ,Atendida,M,,Vítima ilesa,2020,agosto
+2020-08-23,1900-01-01 16:00:00,Pessoalmente,Jaboatão dos Guararapes,Barra de Jangada,Atendida,M,31,Vítima ilesa,2020,agosto
+2020-08-24,1900-01-01 12:40:00,Pessoalmente,Olinda,Casa Caiada,Atendida,M,17,Vítima ilesa,2020,agosto
+2020-08-24,1900-01-01 12:40:00,Pessoalmente,Olinda,Casa Caiada,Atendida,F,14,Vítima ilesa,2020,agosto
+2020-08-24,1900-01-01 12:40:00,Pessoalmente,Olinda,Casa Caiada,Atendida,M,15,Vítima ilesa,2020,agosto
+2020-08-30,1900-01-01 11:19:00,Pessoalmente,Olinda,Casa Caiada,Atendida,M,62,Vítima fatal,2020,agosto
+2020-08-30,1900-01-01 08:00:00,Pessoalmente,Olinda,Casa Caiada,Atendida,M,14,Vítima ilesa,2020,agosto
+2020-08-30,1900-01-01 08:00:00,Pessoalmente,Olinda,Casa Caiada,Atendida,M,38,Vítima ilesa,2020,agosto
+2020-09-01,1900-01-01 10:00:00,Pessoalmente,Olinda,Casa Caiada,Atendida,F,12,Vítima ilesa,2020,setembro
+2020-09-01,1900-01-01 10:20:00,Pessoalmente,Olinda,Casa Caiada,Atendida,F,13,Vítima ilesa,2020,setembro
+2020-09-06,1900-01-01 13:00:00,Pessoalmente,Jaboatão dos Guararapes,Piedade,Atendida,M,15,Vítima ilesa,2020,setembro
+2020-09-06,1900-01-01 13:00:00,Pessoalmente,Jaboatão dos Guararapes,Piedade,Atendida,F,11,Vítima ilesa,2020,setembro
+2020-09-07,1900-01-01 14:40:00,Pessoalmente,Recife,Boa Viagem ,Atendida,M,17,Vítima ferida,2020,setembro
+2020-09-15,1900-01-01 13:00:00,Pessoalmente,Recife,Boa Viagem ,Atendida,M,14,Vítima ilesa,2020,setembro
+2020-09-15,1900-01-01 13:00:00,Pessoalmente,Recife,Boa Viagem ,Atendida,F,33,Vítima ilesa,2020,setembro
+2020-09-15,1900-01-01 13:00:00,Pessoalmente,Recife,Boa Viagem ,Atendida,F,11,Vítima ilesa,2020,setembro
+2020-09-19,1900-01-01 12:40:00,Pessoalmente,Jaboatão dos Guararapes,Piedade,Atendida,M,18,Vítima ilesa,2020,setembro
+2020-09-19,1900-01-01 11:25:00,Pessoalmente,Recife,Boa Viagem ,Atendida,M,11,Vítima ilesa,2020,setembro
+2020-09-19,1900-01-01 10:50:00,CO,Jaboatão dos Guararapes,Barra de Jangada,Atendida,M,5,Vítima ilesa,2020,setembro
+2020-09-20,1900-01-01 11:00:00,Pessoalmente,Recife,Boa Viagem ,Atendida,M,23,Vítima ilesa,2020,setembro
+2020-10-06,1900-01-01 11:50:00,CO,Recife,Brasília Teimosa,Atendida,Não identificado,,Vítima ilesa,2020,outubro
+2020-10-11,1900-01-01 13:00:00,Pessoalmente,Olinda,Bairro Novo,Atendida,M,16,Vítima ilesa,2020,outubro
+2020-10-11,1900-01-01 11:13:00,CO,Jaboatão dos Guararapes,Piedade,Atendida,F,27,Vítima ilesa,2020,outubro
+2020-10-18,1900-01-01 12:25:00,Outro,Recife,Pina ,Atendida,M,14,Vítima ilesa,2020,outubro
+2020-10-26,1900-01-01 10:35:00,Pessoalmente,Olinda,Bairro Novo,Atendida,M,,Vítima ilesa,2020,outubro
+2020-11-03,1900-01-01 11:00:00,Pessoalmente,Olinda,Bairro Novo,Atendida,M,9,Vítima ilesa,2020,novembro
+2020-11-08,1900-01-01 12:57:00,Pessoalmente,Recife,Pina ,Atendida,M,2,Vítima ilesa,2020,novembro
+2020-11-11,1900-01-01 15:30:00,Pessoalmente,Olinda,Bairro Novo,Atendida,M,,Vítima ilesa,2020,novembro
+2020-11-13,1900-01-01 15:30:00,Pessoalmente,Recife,Boa Viagem ,Atendida,M,36,Vítima ilesa,2020,novembro
+2020-12-06,1900-01-01 15:20:00,Outro,Olinda,Casa Caiada,Atendida,M,16,Vítima ilesa,2020,dezembro
+2020-12-27,1900-01-01 12:01:00,CIODS,Jaboatão dos Guararapes,Piedade,Atendida,Não identificado,,Vítima desaparecida,2020,dezembro
+2020-12-28,1900-01-01 11:13:00,Pessoalmente,Olinda,Bairro Novo,Atendida,M,18,Vítima ilesa,2020,dezembro
+2020-12-28,1900-01-01 11:13:00,Pessoalmente,Olinda,Bairro Novo,Atendida,M,15,Vítima ilesa,2020,dezembro
+2020-05-10,1900-01-01 13:45:00,Pessoalmente,Jaboatão dos Guararapes,Piedade,Não Atendida,,,,2020,maio
+2020-01-05,1900-01-01 16:24:00,Outro,Caruaru,ZONA RUAL,Atendida,F,38,,2020,janeiro
+2020-01-07,1900-01-01 18:00:00,Outro,Paudalho,ZONA RURAL,Atendida,M,74,Vítima fatal,2020,janeiro
+2020-01-19,1900-01-01 13:45:00,Outro,Bonito,,Atendida,Não identificado,,Vítima fatal,2020,janeiro
+2020-01-14,1900-01-01 10:15:00,Outro,Condado,ZONA RURAL,Atendida,F,28,,2020,janeiro
+2020-01-15,1900-01-01 07:00:00,Outro,Goiana,,Não Atendida,,,,2020,janeiro
+2020-01-14,1900-01-01 10:20:00,Outro,Condado,ZONA RURAL,Atendida,Não identificado,,,2020,janeiro
+2020-01-15,1900-01-01 09:00:00,Outro,Goiana,ZONA RURAL,Atendida,Não identificado,,Vítima fatal,2020,janeiro
+2020-01-01,1900-01-01 14:10:00,Outro,Jataúba,SÍTIO BOA VISTA,Atendida,M,57,Vítima fatal,2020,janeiro
+2020-02-29,1900-01-01 07:23:00,193,Belo Jardim,ZONA RURAL ,Atendida,F,18,Vítima fatal,2020,fevereiro
+2020-02-26,1900-01-01 10:40:00,193,São João,,Atendida,Não identificado,,Vítima fatal,2020,fevereiro
+2020-01-29,1900-01-01 16:00:00,Outro,Água Preta,ENGENHO MANGUEIRA,Atendida,Não identificado,,Vítima fatal,2020,janeiro
+2020-02-23,1900-01-01 10:00:00,Ordem de Serviço,Tamandaré,,Atendida,Não identificado,,,2020,fevereiro
+2020-03-05,1900-01-01 13:10:00,Pessoalmente,Belo Jardim,FLORESTA,Atendida,F,2,Vítima ferida,2020,março
+2020-03-02,1900-01-01 12:00:00,Pessoalmente,Bonito,,Atendida,Não identificado,,Vítima fatal,2020,março
+2020-03-05,1900-01-01 19:57:00,193,Nazaré da Mata,SERTÃOZINHO,Não Atendida,,,Vítima fatal,2020,março
+2020-03-06,1900-01-01 09:44:00,193,Nazaré da Mata,ZONA RURAL,Não Atendida,M,53,Vítima fatal,2020,março
+2020-03-06,1900-01-01 09:28:00,193,Nazaré da Mata,ZONA RURAL,Atendida,Não identificado,,Vítima desaparecida,2020,março
+2020-03-07,1900-01-01 17:28:00,CO,Timbaúba,QUEIMADAS,Não Atendida,M,8,Vítima fatal,2020,março
+2020-03-07,1900-01-01 17:28:00,CO,Timbaúba,QUEIMADAS,Não Atendida,,,Vítima fatal,2020,março
+2020-03-17,1900-01-01 08:04:00,CO,Goiana,FLEXEIRO,Atendida,Não identificado,,Vítima ferida,2020,março
+2020-04-05,1900-01-01 17:35:00,Pessoalmente,Vitória de Santo Antão,NATUBA-ZONA RURAL,Não Atendida,,,Vítima ilesa,2020,abril
+2020-04-09,1900-01-01 13:02:00,193,Garanhuns,ZONA RURAL,Atendida,M,36,Vítima fatal,2020,abril
+2020-04-13,1900-01-01 07:31:00,193,Iati,ZONA RURAL ,Atendida,Não identificado,,Vítima fatal,2020,abril
+2020-04-27,1900-01-01 07:10:00,193,Caruaru,JOÃO MOTA,Atendida,Não identificado,,,2020,abril
+2020-04-27,1900-01-01 15:00:00,193,Caruaru,JOÃO MOTA,Atendida,Não identificado,,,2020,abril
+2020-05-01,1900-01-01 13:55:00,193,Caruaru,ZONA RURAL DE RIACHO DAS ALMAS PE,Atendida,M,38,,2020,maio
+2020-05-01,1900-01-01 13:55:00,193,Caruaru,ZONA RURAL DE RIACHO DAS ALMAS PE,Atendida,Não identificado,,,2020,maio
+2020-05-06,1900-01-01 15:30:00,193,Bezerros,ENCRUZILHADA DOS BEZERROS,Atendida,Não identificado,,Vítima fatal,2020,maio
+2020-05-09,1900-01-01 07:18:00,193,Bom Jardim,ZONA RURAL ,Não Atendida,F,66,Vítima ilesa,2020,maio
+2020-05-21,1900-01-01 20:00:00,193,Pesqueira,ZONA RURAL,Atendida,Não identificado,,Vítima fatal,2020,maio
+2020-05-12,1900-01-01 18:00:00,193,São João,ZONA RURAL,Atendida,M,40,Vítima fatal,2020,maio
+2020-06-21,1900-01-01 06:40:00,193,Surubim,SÍTIO BANDINHA,Atendida,Não identificado,,Vítima fatal,2020,junho
+2020-07-13,1900-01-01 09:33:00,Outro,Vertentes,ZONA RURAL,Atendida,M,40,Vítima desaparecida,2020,julho
+2020-09-12,1900-01-01 13:28:00,193,Tacaimbó,ZONA RURAL ,Atendida,M,34,Vítima fatal,2020,setembro
+2020-09-24,1900-01-01 15:03:00,193,São Caetano,ZONA RURAL ,Atendida,F,33,Vítima fatal,2020,setembro
+2020-09-13,1900-01-01 16:40:00,Outro,Surubim,ZONA RURAL,Atendida,Não identificado,,Vítima fatal,2020,setembro
+2020-10-11,1900-01-01 11:30:00,193,Sirinhaém,SANTO AMARO,Atendida,Não identificado,,Vítima fatal,2020,outubro
+2020-10-19,1900-01-01 07:30:00,193,Caruaru,ZONA RURAL,Não Atendida,,,,2020,outubro
+2020-10-19,1900-01-01 09:30:00,CO,Caruaru,ZONA RURAL,Atendida,Não identificado,,Vítima fatal,2020,outubro
+2020-10-26,1900-01-01 09:58:00,193,Caruaru,ZONA RURAL,Atendida,Não identificado,,Vítima desaparecida,2020,outubro
+2020-11-11,1900-01-01 22:15:00,193,Garanhuns,ZONA RURAL ,Atendida,Não identificado,,Vítima fatal,2020,novembro
+2020-11-15,1900-01-01 09:15:00,Outro,Caruaru,ZONA RURAL ,Atendida,F,,Vítima fatal,2020,novembro
+2020-11-05,1900-01-01 08:18:00,Outro,Casinhas,CENTRO,Atendida,Não identificado,,Vítima fatal,2020,novembro
+2020-12-13,1900-01-01 16:23:00,193,Pombos,ZONA RURAL,Atendida,Não identificado,,Vítima fatal,2020,dezembro
+2020-12-25,1900-01-01 15:40:00,193,Surubim,ZONA RURAL ,Atendida,Não identificado,,Vítima fatal,2020,dezembro
+2021-01-08,1900-01-01 11:40:00,Pessoalmente,Fernando de Noronha,Baía de Santo Antônio,Atendida,F,23,Vítima ilesa,2021,janeiro
+2021-01-09,1900-01-01 11:58:00,CO do Grupamento,Fernando de Noronha,Praia da Conceição ou de Italcable,Atendida,F,13,Vítima ilesa,2021,janeiro
+2021-01-15,1900-01-01 07:30:00,CO do Grupamento,Fernando de Noronha,"Praia do Cachorro, na Vila dos Remédios ",Atendida,F,,Vítima ilesa,2021,janeiro
+2021-02-08,1900-01-01 11:10:00,Pessoalmente,Fernando de Noronha,Praia da Conceição ou de Italcable,Atendida,Não identificado,,,2021,fevereiro
+2021-02-09,1900-01-01 11:40:00,Pessoalmente,Fernando de Noronha,Praia do Meio,Atendida,Não identificado,,,2021,fevereiro
+2021-02-14,1900-01-01 12:30:00,Pessoalmente,Fernando de Noronha,Baía de Santo Antônio,Atendida,M,28,Vítima ilesa,2021,fevereiro
+2021-02-14,1900-01-01 16:10:00,Pessoalmente,Fernando de Noronha,Baía de Santo Antônio,Atendida,M,32,Vítima ilesa,2021,fevereiro
+2021-03-01,1900-01-01 16:16:00,Pessoalmente,Fernando de Noronha,Praia da Conceição ou de Italcable,Atendida,M,46,Vítima ilesa,2021,março
+2021-03-20,1900-01-01 12:00:00,Pessoalmente,Fernando de Noronha,Baía de Santo Antônio,Atendida,Não identificado,,,2021,março
+2021-04-08,1900-01-01 14:21:00,193,Fernando de Noronha,Baía de Santo Antônio,Atendida,M,55,Vítima fatal,2021,abril
+2021-04-27,1900-01-01 15:25:00,Pessoalmente,Fernando de Noronha,Praia da Conceição ou de Italcable,Atendida,M,29,Vítima ilesa,2021,abril
+2021-04-27,1900-01-01 15:25:00,Pessoalmente,Fernando de Noronha,Praia da Conceição ou de Italcable,Atendida,F,34,Vítima ilesa,2021,abril
+2021-05-01,1900-01-01 04:44:00,193,Fernando de Noronha,"Praia do Cachorro, na Vila dos Remédios ",Atendida,F,30,Vítima fatal,2021,maio
+2021-05-20,1900-01-01 16:16:00,Pessoalmente,Fernando de Noronha,Baía de Santo Antônio,Atendida,M,52,Vítima fatal,2021,maio
+2021-10-11,1900-01-01 15:30:00,CO do Grupamento,Fernando de Noronha,"Praia do Cachorro, na Vila dos Remédios ",Atendida,Não identificado,,Vítima fatal,2021,outubro
+2021-10-12,1900-01-01 07:30:00,CO do Grupamento,Fernando de Noronha,Baía de Santo Antônio,Atendida,Não identificado,,Vítima fatal,2021,outubro
+2021-11-01,1900-01-01 12:20:00,Pessoalmente,Fernando de Noronha,"Praia do Cachorro, na Vila dos Remédios ",Atendida,F,50,Vítima ilesa,2021,novembro
+2021-11-01,1900-01-01 12:20:00,Pessoalmente,Fernando de Noronha,"Praia do Cachorro, na Vila dos Remédios ",Atendida,F,14,Vítima ilesa,2021,novembro
+2021-11-01,1900-01-01 12:20:00,Pessoalmente,Fernando de Noronha,"Praia do Cachorro, na Vila dos Remédios ",Atendida,M,16,Vítima ilesa,2021,novembro
+2021-11-21,1900-01-01 11:20:00,Pessoalmente,Fernando de Noronha,Praia da Conceição ou de Italcable,Atendida,Não identificado,,,2021,novembro
+2021-11-24,1900-01-01 16:00:00,Pessoalmente,Fernando de Noronha,Praia da Conceição ou de Italcable,Atendida,Não identificado,,,2021,novembro
+2021-11-29,1900-01-01 11:32:00,Pessoalmente,Fernando de Noronha,Praia da Conceição ou de Italcable,Atendida,Não identificado,,,2021,novembro
+2021-01-01,1900-01-01 08:35:00,CO,Recife,Pina ,Atendida,M,65,Vítima ilesa,2021,janeiro
+2020-02-24,1900-01-01 10:00:00,Ordem de Serviço,Tamandaré,,Atendida,Não identificado,,,2020,fevereiro
+2021-02-14,1900-01-01 18:35:00,193,Olinda,Casa Caiada,Atendida,F,33,Vítima ilesa,2021,fevereiro
+2021-02-20,1900-01-01 13:20:00,Pessoalmente,Olinda,Varadouro,Atendida,M,22,Vítima ilesa,2021,fevereiro
+2021-01-16,1900-01-01 22:00:00,CO,Jaboatão dos Guararapes,Marcos Freire,Não Atendida,,,,2021,janeiro
+2021-06-16,1900-01-01 12:42:00,193,Olinda,Peixinhos,Atendida,M,14,Vítima ilesa,2021,junho
+2021-07-04,1900-01-01 10:58:00,CO,Abreu e Lima,Caetés I,Atendida,M,24,Vítima fatal,2021,julho
+2021-05-17,1900-01-01 10:46:00,Pessoalmente,Jaboatão dos Guararapes,Prazeres,Não Atendida,,,,2021,maio
+2021-07-06,1900-01-01 18:12:00,193,Paulista,PAU AMARELO,Não Atendida,,,Vítima ferida,2021,julho
+2021-09-18,1900-01-01 22:18:00,193,Recife,São José ,Atendida,M,,Vítima ferida,2021,setembro
+2021-08-23,1900-01-01 23:56:00,CO,Jaboatão dos Guararapes,Santo Aleixo,Não Atendida,,,,2021,agosto
+2021-09-21,1900-01-01 13:40:00,193,Jaboatão dos Guararapes,Prazeres,Não Atendida,,,Vítima ferida,2021,setembro
+2021-11-21,1900-01-01 16:20:00,CO,Recife,Boa Viagem ,Atendida,M,49,Vítima ilesa,2021,novembro
+2021-10-24,1900-01-01 15:50:00,CO,Abreu e Lima,Planalto,Não Atendida,,,Vítima ilesa,2021,outubro
+2021-12-16,1900-01-01 08:27:00,CO,Recife,Campo Grande ,Atendida,M,52,Vítima ilesa,2021,dezembro
+2021-12-21,1900-01-01 14:04:00,193,Recife,Outro,Atendida,F,81,Vítima ilesa,2021,dezembro
+2021-01-01,1900-01-01 07:00:00,Outro,Recife,Pina ,Atendida,M,65,Vítima ilesa,2021,janeiro
+2021-01-01,1900-01-01 07:00:00,Outro,Olinda,Bairro Novo,Atendida,Não identificado,,Vítima ferida,2021,janeiro
+2021-01-03,1900-01-01 07:00:00,Outro,Olinda,Bairro Novo,Atendida,M,23,Vítima ilesa,2021,janeiro
+2021-01-10,1900-01-01 07:00:00,Outro,Recife,Boa Viagem ,Atendida,F,18,Vítima ferida,2021,janeiro
+2021-01-10,1900-01-01 07:00:00,Outro,Recife,Boa Viagem ,Atendida,F,24,Vítima ferida,2021,janeiro
+2021-01-10,1900-01-01 07:00:00,Outro,Recife,Boa Viagem ,Atendida,F,,Vítima ferida,2021,janeiro
+2021-01-12,1900-01-01 07:00:00,Outro,Recife,Boa Viagem ,Atendida,M,49,Vítima ferida,2021,janeiro
+2021-01-12,1900-01-01 07:00:00,Outro,Recife,Boa Viagem ,Atendida,F,13,Vítima ferida,2021,janeiro
+2021-01-17,1900-01-01 07:00:00,Outro,Olinda,Casa Caiada,Atendida,M,30,Vítima ferida,2021,janeiro
+2021-01-22,1900-01-01 07:00:00,Outro,Recife,Boa Viagem ,Atendida,M,54,Vítima fatal,2021,janeiro
+2021-01-31,1900-01-01 07:00:00,Outro,Recife,Boa Viagem ,Atendida,M,28,Vítima ferida,2021,janeiro
+2021-02-14,1900-01-01 07:00:00,Outro,Recife,Boa Viagem ,Atendida,M,10,,2021,fevereiro
+2021-02-14,1900-01-01 07:00:00,Outro,Jaboatão dos Guararapes,Piedade,Atendida,F,13,,2021,fevereiro
+2021-02-14,1900-01-01 07:00:00,Outro,Jaboatão dos Guararapes,Piedade,Atendida,F,15,,2021,fevereiro
+2021-02-17,1900-01-01 07:00:00,Outro,Recife,Boa Viagem ,Atendida,M,32,,2021,fevereiro
+2021-02-24,1900-01-01 07:00:00,Outro,Recife,Boa Viagem ,Atendida,M,58,,2021,fevereiro
+2021-02-28,1900-01-01 07:00:00,Outro,Jaboatão dos Guararapes,Piedade,Atendida,M,,,2021,fevereiro
+2021-03-31,1900-01-01 07:00:00,Outro,Recife,Boa Viagem ,Atendida,Não identificado,,,2021,março
+2021-05-15,1900-01-01 07:00:00,Pessoalmente,Jaboatão dos Guararapes,Muribeca,Atendida,F,39,Vítima ferida,2021,maio
+2021-12-02,1900-01-01 14:12:00,CO,Camaragibe,Outro,Não Atendida,,,Vítima ferida,2021,dezembro
+2021-07-04,1900-01-01 14:45:00,Pessoalmente,Olinda,Casa Caiada,Atendida,M,18,Vítima ilesa,2021,julho
+2021-07-08,1900-01-01 07:00:00,Pessoalmente,Recife,Brasília Teimosa,Atendida,M,,Vítima fatal,2021,julho
+2021-07-09,1900-01-01 16:30:00,CO do Grupamento,Olinda,Casa Caiada,Atendida,M,21,Vítima ilesa,2021,julho
+2021-07-26,1900-01-01 15:41:00,Pessoalmente,Recife,Boa Viagem ,Atendida,F,26,Vítima ilesa,2021,julho
+2021-08-17,1900-01-01 11:00:00,CO do Grupamento,Recife,Boa Viagem ,Atendida,M,,Vítima ilesa,2021,agosto
+2021-08-22,1900-01-01 11:30:00,Pessoalmente,Olinda,Bairro Novo,Atendida,F,10,Vítima ilesa,2021,agosto
+2021-08-22,1900-01-01 11:30:00,Pessoalmente,Olinda,Bairro Novo,Atendida,M,10,Vítima ilesa,2021,agosto
+2021-08-22,1900-01-01 14:00:00,Pessoalmente,Recife,Pina ,Atendida,M,15,Vítima ilesa,2021,agosto
+2021-08-22,1900-01-01 14:00:00,Pessoalmente,Recife,Pina ,Atendida,F,13,Vítima ilesa,2021,agosto
+2021-08-22,1900-01-01 14:00:00,Pessoalmente,Recife,Pina ,Atendida,M,16,Vítima ilesa,2021,agosto
+2021-09-07,1900-01-01 10:30:00,Pessoalmente,Recife,Pina ,Atendida,M,10,Vítima ilesa,2021,setembro
+2021-09-07,1900-01-01 10:30:00,Pessoalmente,Recife,Pina ,Atendida,M,12,Vítima ilesa,2021,setembro
+2021-09-07,1900-01-01 10:30:00,Pessoalmente,Recife,Pina ,Atendida,F,27,Vítima ilesa,2021,setembro
+2021-09-07,1900-01-01 10:30:00,Pessoalmente,Recife,Pina ,Atendida,F,42,Vítima ilesa,2021,setembro
+2021-09-07,1900-01-01 14:28:00,CIODS,Recife,Boa Viagem ,Atendida,M,17,,2021,setembro
+2021-09-11,1900-01-01 12:30:00,Pessoalmente,Recife,Boa Viagem ,Atendida,M,4,Vítima ilesa,2021,setembro
+2021-09-15,1900-01-01 07:00:00,Pessoalmente,Recife,Pina ,Atendida,Não identificado,35,Vítima ilesa,2021,setembro
+2021-09-19,1900-01-01 07:00:00,Pessoalmente,Jaboatão dos Guararapes,Piedade,Atendida,M,35,Vítima ilesa,2021,setembro
+2021-09-30,1900-01-01 16:10:00,Pessoalmente,Recife,Pina ,Atendida,M,,Vítima ferida,2021,setembro
+2021-10-03,1900-01-01 14:05:00,Pessoalmente,Jaboatão dos Guararapes,Barra de Jangada,Atendida,F,14,Vítima ilesa,2021,outubro
+2021-10-17,1900-01-01 07:00:00,Pessoalmente,Recife,Brasília Teimosa,Atendida,M,18,Vítima ferida,2021,outubro
+2021-10-17,1900-01-01 15:00:00,Pessoalmente,Recife,Brasília Teimosa,Atendida,M,47,Vítima ilesa,2021,outubro
+2021-10-25,1900-01-01 07:00:00,Pessoalmente,Jaboatão dos Guararapes,Piedade,Atendida,F,16,Vítima ilesa,2021,outubro
+2021-10-30,1900-01-01 08:00:00,Pessoalmente,Recife,Boa Viagem ,Atendida,F,27,Vítima ilesa,2021,outubro
+2021-10-30,1900-01-01 08:00:00,Pessoalmente,Recife,Boa Viagem ,Atendida,M,30,Vítima ilesa,2021,outubro
+2021-11-02,1900-01-01 12:40:00,Pessoalmente,Recife,Pina ,Atendida,M,,,2021,novembro
+2021-11-02,1900-01-01 15:00:00,Pessoalmente,Olinda,Bairro Novo,Atendida,F,14,Vítima ilesa,2021,novembro
+2021-11-06,1900-01-01 07:00:00,Pessoalmente,Jaboatão dos Guararapes,Barra de Jangada,Atendida,M,50,Vítima ilesa,2021,novembro
+2021-11-07,1900-01-01 07:00:00,Pessoalmente,Jaboatão dos Guararapes,Barra de Jangada,Atendida,M,16,Vítima ilesa,2021,novembro
+2021-11-16,1900-01-01 07:00:00,Pessoalmente,Jaboatão dos Guararapes,Piedade,Atendida,M,14,Vítima ilesa,2021,novembro
+2021-11-21,1900-01-01 07:00:00,Pessoalmente,Jaboatão dos Guararapes,Piedade,Atendida,M,24,Vítima ilesa,2021,novembro
+2021-11-22,1900-01-01 07:00:00,Pessoalmente,Jaboatão dos Guararapes,Piedade,Atendida,M,19,,2021,novembro
+2021-12-05,1900-01-01 10:30:00,Outro,Jaboatão dos Guararapes,Barra de Jangada,Atendida,M,52,Vítima ferida,2021,dezembro
+2021-12-05,1900-01-01 15:00:00,Pessoalmente,Recife,Pina ,Atendida,M,19,Vítima ilesa,2021,dezembro
+2021-12-05,1900-01-01 15:00:00,Pessoalmente,Recife,Pina ,Atendida,M,24,Vítima ilesa,2021,dezembro
+2021-12-05,1900-01-01 15:00:00,Pessoalmente,Recife,Pina ,Atendida,M,20,Vítima ilesa,2021,dezembro
+2021-12-20,1900-01-01 09:00:00,Pessoalmente,Recife,Boa Viagem ,Atendida,M,78,Vítima ilesa,2021,dezembro
+2021-01-15,1900-01-01 06:40:00,Outro,Tupanatinga,ZONA RURAL,Atendida,Não identificado,,Vítima fatal,2021,janeiro
+2021-01-20,1900-01-01 07:30:00,CO,Iati,SITIO BARRA NOVA,Não Atendida,,,Vítima fatal,2021,janeiro
+2021-01-23,1900-01-01 14:24:00,193,Chã de Alegria,BARRAGEM DE TAPACURÁ,Atendida,M,32,Vítima fatal,2021,janeiro
+2021-02-07,1900-01-01 14:04:00,193,Frei Miguelinho,ZONA RURAL ,Atendida,Não identificado,,Vítima fatal,2021,fevereiro
+2021-02-09,1900-01-01 14:52:00,193,Caruaru,BR 232,Atendida,F,36,Vítima fatal,2021,fevereiro
+2021-02-15,1900-01-01 17:41:00,CO,Caruaru,ZONA RURAL,Atendida,F,,Vítima fatal,2021,fevereiro
+2021-02-17,1900-01-01 07:47:00,193,Altinho,ZONA RURAL,Atendida,Não identificado,,Vítima fatal,2021,fevereiro
+2021-02-27,1900-01-01 11:55:00,CO,Tacaimbó,ZONA RURAL,Atendida,Não identificado,,Vítima fatal,2021,fevereiro
+2021-03-16,1900-01-01 13:43:00,193,Caruaru,DEMOSTENES VERAS,Não Atendida,,,Vítima ferida,2021,março
+2021-03-21,1900-01-01 15:38:00,193,Caruaru,ZONA RURAL,Atendida,M,,Vítima fatal,2021,março
+2021-03-30,1900-01-01 15:55:00,193,Caruaru,ZONA RURAL,Atendida,M,22,Vítima fatal,2021,março
+2021-03-13,1900-01-01 15:00:00,CO,Bezerros,ZONA RURAL,Não Atendida,M,60,Vítima ferida,2021,março
+2021-03-30,1900-01-01 16:15:00,CO,Santa Cruz do Capibaribe,DONA LICA II,Atendida,Não identificado,,,2021,março
+2021-03-29,1900-01-01 15:50:00,CO,Palmares,ZONA RURAL,Não Atendida,M,32,,2021,março
+2021-03-30,1900-01-01 16:25:00,CO,Catende,CENTRO,Atendida,M,44,,2021,março
+2021-04-17,1900-01-01 13:54:00,193,Lajedo,ZONA RURAL,Atendida,M,60,,2021,abril
+2021-05-11,1900-01-01 13:35:00,193,Riacho das Almas,VILA DOS PIÕES,Atendida,M,17,,2021,maio
+2021-05-12,1900-01-01 07:55:00,193,Riacho das Almas,ZONA RURAL,Atendida,Não identificado,,Vítima fatal,2021,maio
+2021-05-16,1900-01-01 12:55:00,193,Caruaru,CENTRO,Não Atendida,,,Vítima fatal,2021,maio
+2021-05-23,1900-01-01 11:38:00,Outro,Bom Conselho,CENTRO,Atendida,Não identificado,,Vítima fatal,2021,maio
+2021-09-04,1900-01-01 06:30:00,CO,Tamandaré,PRAIA DOS CARNEIROS,Atendida,Não identificado,,Vítima desaparecida,2021,setembro
+2021-09-06,1900-01-01 16:50:00,CO,Jaqueira,CENTRO,Não Atendida,M,53,Vítima desaparecida,2021,setembro
+2021-09-04,1900-01-01 06:30:00,CO,Tamandaré,CARNEIROS,Atendida,M,45,Vítima fatal,2021,setembro
+2021-09-07,1900-01-01 07:30:00,193,Jaqueira,CENTRO,Não Atendida,,,Vítima ilesa,2021,setembro
+2021-09-27,1900-01-01 08:40:00,Outro,Surubim,CHÂ DO MARINHEIRO,Atendida,Não identificado,,Vítima ferida,2021,setembro
+2021-10-03,1900-01-01 12:17:00,193,Caruaru,ZONA RURAL,Atendida,F,36,Vítima fatal,2021,outubro
+2021-10-10,1900-01-01 12:00:00,CO,Amaraji,ZONA RURAL,Atendida,M,51,Vítima fatal,2021,outubro
+2021-10-23,1900-01-01 06:25:00,CO,Caruaru,ZONA RURAL - BARRAGEM DO ESTADO,Não Atendida,,,,2021,outubro
+2021-10-11,1900-01-01 17:30:00,193,Paranatama,ZONA RURAL -PARANATAMA,Não Atendida,,,Vítima fatal,2021,outubro
+2021-11-02,1900-01-01 12:17:00,CO,Lajedo,ZONA RURAL,Atendida,Não identificado,,,2021,novembro
+2021-11-17,1900-01-01 16:41:00,Outro,Caetés,ZONA RURAL,Não Atendida,,,,2021,novembro
+2021-12-17,1900-01-01 23:30:00,CO,Caruaru,ZONA RURAL,Atendida,Não identificado,,Vítima fatal,2021,dezembro
+2021-12-25,1900-01-01 17:24:00,193,Caruaru,ZONA RURAL,Não Atendida,,,,2021,dezembro
+2021-07-13,1900-01-01 14:15:00,CIODS,Jaboatão dos Guararapes,Piedade,Atendida,M,21,Vítima ferida,2021,julho
+2022-01-01,1900-01-01 14:00:00,CO DO GRUPAMENTO,Recife,BOA VIAGEM,Atendida,M,45,Vítima ilesa,2022,janeiro
+2022-01-06,1900-01-01 12:57:00,CO DO GRUPAMENTO,Recife,BOA VIAGEM,Não Atendida,,,,2022,janeiro
+2022-01-08,1900-01-01 15:08:00,CO DO GRUPAMENTO,Jaboatão dos Guararapes,CANDEIAS,Atendida,M,36,Vítima ilesa,2022,janeiro
+2022-01-09,1900-01-01 10:23:00,CO DO GRUPAMENTO,Recife,PINA,Não Atendida,,,,2022,janeiro
+2022-01-30,1900-01-01 13:26:00,CO DO GRUPAMENTO,Jaboatão dos Guararapes,BARRA DE JANGADA,Atendida,M,18,Vítima ferida,2022,janeiro
+2022-01-01,1900-01-01 00:03:00,CIODS,Ilha de Itamaracá,MARINHA FARINHA,Atendida,Não identificado,,,2022,janeiro
+2022-01-06,1900-01-01 09:52:00,CO DO GRUPAMENTO,Olinda,SALGADINHO,Atendida,Não identificado,,,2022,janeiro
+2022-01-14,1900-01-01 10:33:00,CO DO GRUPAMENTO,Paulista,PAU AMARELO,Atendida,Não identificado,,,2022,janeiro
+2022-01-21,1900-01-01 05:35:00,CO DO GRUPAMENTO,Recife,SANTO ANTÔNIO,Não Atendida,,,,2022,janeiro
+2022-01-30,1900-01-01 08:25:00,CO DO GRUPAMENTO,Lagoa do Ouro,,Atendida,Não identificado,,,2022,janeiro
+2022-01-01,1900-01-01 00:03:00,CIODS,Ilha de Itamaracá,MARINHA FARINHA,Atendida,Não identificado,,,2022,janeiro
+2022-01-01,,OUTRO,Olinda,BAIRRO NOVO,Atendida,F,58,,2022,janeiro
+2022-01-01,,OUTRO,Recife,PINA,Atendida,M,52,,2022,janeiro
+2022-01-02,,PESSOALMENTE,Recife,BOA VIAGEM,Atendida,M,16,,2022,janeiro
+2022-01-05,,CIODS,Jaboatão dos Guararapes,PIEDADE,Atendida,Não identificado,,,2022,janeiro
+2022-01-08,,PESSOALMENTE,Recife,BOA VIAGEM,Atendida,M,10,Vítima ilesa,2022,janeiro
+2022-01-08,,PESSOALMENTE,Recife,BOA VIAGEM,Atendida,F,16,Vítima ilesa,2022,janeiro
+2022-01-08,,PESSOALMENTE,Recife,BOA VIAGEM,Atendida,F,43,Vítima ilesa,2022,janeiro
+2022-01-09,,CIODS,Recife,PINA,Atendida,M,29,Vítima fatal,2022,janeiro
+2022-01-09,,CIODS,Recife,BOA VIAGEM,Atendida,Não identificado,,,2022,janeiro
+2022-01-09,,CIODS,Recife,BOA VIAGEM,Atendida,Não identificado,,,2022,janeiro
+2022-01-09,,CIODS,Recife,BOA VIAGEM,Atendida,Não identificado,,,2022,janeiro
+2022-01-22,,PESSOALMENTE,Recife,BOA VIAGEM,Atendida,M,6,Vítima ilesa,2022,janeiro
+2022-01-22,,PESSOALMENTE,Recife,BOA VIAGEM,Atendida,M,32,Vítima ilesa,2022,janeiro
+2022-01-22,,OUTRO,Olinda,BAIRRO NOVO,Atendida,M,,Vítima ilesa,2022,janeiro
+2022-01-30,,CIODS,Jaboatão dos Guararapes,PIEDADE,Atendida,M,13,,2022,janeiro
+2022-01-30,,CIODS,Jaboatão dos Guararapes,PIEDADE,Atendida,M,16,,2022,janeiro
+2022-01-30,,CIODS,Jaboatão dos Guararapes,PIEDADE,Atendida,M,50,Vítima fatal,2022,janeiro
+2022-01-05,1900-01-01 15:50:00,PESSOALMENTE,Fernando de Noronha,PRAIA DA CONCEIÇÃO OU DE ITALCABLE,Atendida,F,16,Vítima ilesa,2022,janeiro
+2022-01-24,,PESSOALMENTE,Fernando de Noronha,PRAIA DA CONCEIÇÃO OU DE ITALCABLE,Atendida,M,64,Vítima ilesa,2022,janeiro
+2022-01-24,,PESSOALMENTE,Fernando de Noronha,PRAIA DA CONCEIÇÃO OU DE ITALCABLE,Atendida,F,36,Vítima ilesa,2022,janeiro
+2022-02-06,1900-01-01 13:44:00,CO DO GRUPAMENTO,Recife,BOA VIAGEM,Não Atendida,,,,2022,fevereiro
+2022-02-28,1900-01-01 15:00:00,CO DO GRUPAMENTO,Jaboatão dos Guararapes,BARRA DE JANGADA,Não Atendida,,,Vítima fatal,2022,fevereiro
+2022-02-06,1900-01-01 16:05:00,CO DO GRUPAMENTO,Jaboatão dos Guararapes,MURIBECA,Atendida,Não identificado,Não idetificado,,2022,fevereiro
+2022-02-23,1900-01-01 07:30:00,CO DO GRUPAMENTO,São Lourenço da Mata,PARQUE CAPIBARIBE,Atendida,Não identificado,Não idetificado,,2022,fevereiro
+2022-02-04,,PESSOALMENTE,Jaboatão dos Guararapes,PIEDADE,Atendida,M,Não identificado,Vítima ilesa,2022,fevereiro
+2022-02-13,,OUTRO,Jaboatão dos Guararapes,PIEDADE,Atendida,M,Não identificado,Vítima ilesa,2022,fevereiro
+2022-02-13,1900-01-01 09:50:00,CO DO GRUPAMENTO,Fernando de Noronha,PRAIA DA CONCEICAO,Atendida,Não identificado,,,2022,fevereiro
+2022-03-20,1900-01-01 12:20:00,CO DO GRUPAMENTO,Itapissuma,BOTAFOGO,Atendida,Não identificado,,,2022,março
+2022-03-21,1900-01-01 00:03:00,CO DO GRUPAMENTO,Recife,BREJO DA GUABIRABA,Atendida,Não identificado,,,2022,março
+2022-03-27,1900-01-01 10:40:00,CO DO GRUPAMENTO,Cabo de Santo Agostinho,OUTRO,Atendida,Não identificado,,,2022,março
+2022-03-28,1900-01-01 08:11:00,CO DO GRUPAMENTO,Cabo de Santo Agostinho,OUTRO,Atendida,Não identificado,,,2022,março
+2022-03-29,1900-01-01 06:32:00,CO DO GRUPAMENTO,Cabo de Santo Agostinho,ITAPUAMA,Atendida,Não identificado,,,2022,março
+2022-03-06,1900-01-01 15:00:00,CIODS,Recife,PINA,Atendida,Não identificado,,,2022,março
+2022-03-07,1900-01-01 13:00:00,PESSOALMENTE,Fernando de Noronha,PRAIA DA CONCEIÇÃO OU DE ITALCABLE,Atendida,Não identificado,,,2022,março
+2022-03-13,1900-01-01 14:43:00,CO DO GRUPAMENTO,Fernando de Noronha,BAÍA DO SANCHO ,Atendida,Não identificado,,,2022,março
+2022-03-21,1900-01-01 11:20:00,PESSOALMENTE,Fernando de Noronha,BAÍA DE SANTO ANTÔNIO,Atendida,F,32,Vítima ilesa,2022,março
+2022-03-21,1900-01-01 15:55:00,PESSOALMENTE,Fernando de Noronha,BAÍA DE SANTO ANTÔNIO,Atendida,Não identificado,,,2022,março
+2022-04-24,1900-01-01 10:35:00,CO DO GRUPAMENTO,Recife,BOA VIAGEM,Não Atendida,F,53,Vítima ilesa,2022,abril
+2022-04-30,1900-01-01 11:36:00,CIODS,Cabo de Santo Agostinho,OUTRO,Não Atendida,,,,2022,abril
+2022-04-02,,PESSOALMENTE,Olinda,CASA CAIADA,Atendida,F,11,Vítima ilesa,2022,abril
+2022-04-02,,PESSOALMENTE,Olinda,CASA CAIADA,Atendida,M,27,Vítima ilesa,2022,abril
+2022-04-02,,PESSOALMENTE,Olinda,CASA CAIADA,Atendida,F,38,Vítima ilesa,2022,abril
+2022-04-10,,OUTRO,Jaboatão dos Guararapes,PIEDADE,Atendida,M,23,Vítima ilesa,2022,abril
+2022-04-15,,PESSOALMENTE,Recife,BOA VIAGEM,Atendida,M,12,Vítima ilesa,2022,abril
+2022-04-23,,OUTRO,Recife,PINA,Atendida,F,24,Vítima ilesa,2022,abril
+2022-04-23,,OUTRO,Recife,PINA,Atendida,M,28,Vítima ilesa,2022,abril
+2022-04-23,,OUTRO,Recife,PINA,Atendida,M,26,Vítima ilesa,2022,abril
+2022-04-15,1900-01-01 15:15:00,PESSOALMENTE,Fernando de Noronha,PRAIA DA CONCEIÇÃO OU DE ITALCABLE,Atendida,M,40,Vítima ilesa,2022,abril
+2022-04-20,1900-01-01 12:20:00,CO DO GRUPAMENTO,Fernando de Noronha,BAÍA DE SANTO ANTÔNIO,Atendida,M,23,Vítima ilesa,2022,abril
+2022-04-20,1900-01-01 13:30:00,CO DO GRUPAMENTO,Fernando de Noronha,BAÍA DE SANTO ANTÔNIO,Atendida,M,7,Vítima ilesa,2022,abril
+2022-05-27,1900-01-01 18:02:00,PESSOALMENTE,Jaboatão dos Guararapes,OUTRO,Atendida,F,56,Vítima fatal,2022,maio
+2022-05-01,1900-01-01 16:10:00,CIODS,Jaboatão dos Guararapes,PIEDADE,Não Atendida,,,,2022,maio
+2022-05-13,1900-01-01 14:54:00,CO DO GRUPAMENTO,Recife,BOA VIAGEM,Não Atendida,,,,2022,maio
+2022-05-28,1900-01-01 15:15:00,CO DO GRUPAMENTO,Jaboatão dos Guararapes,DOIS CARNEIROS,Atendida,Não identificado,,,2022,maio
+2022-05-28,1900-01-01 00:25:00,CO DO GRUPAMENTO,Jaboatão dos Guararapes,MURIBECA,Atendida,Não identificado,,,2022,maio
+2022-05-28,1900-01-01 08:14:00,CO DO GRUPAMENTO,Olinda,SÃO BENEDITO,Atendida,Não identificado,,,2022,maio
+2022-05-31,1900-01-01 08:06:00,CO DO GRUPAMENTO,Paulista,PARATIBE,Atendida,Não identificado,,,2022,maio
+2022-05-15,1900-01-01 07:00:00,PESSOALMENTE,Jaboatão dos Guararapes,MURIBECA,Atendida,F,39,Vítima ferida,2022,maio
+2022-05-06,1900-01-01 10:00:00,PESSOALMENTE,Fernando de Noronha,PRAIA DA CONCEIÇÃO OU DE ITALCABLE,Atendida,F,25,Vítima ilesa,2022,maio
+2022-05-15,1900-01-01 11:50:00,PESSOALMENTE,Fernando de Noronha,PRAIA DA CONCEIÇÃO OU DE ITALCABLE,Atendida,F,33,Vítima ilesa,2022,maio
+2022-05-15,1900-01-01 11:50:00,PESSOALMENTE,Fernando de Noronha,PRAIA DA CONCEIÇÃO OU DE ITALCABLE,Atendida,M,30,Vítima ilesa,2022,maio
+2022-05-22,1900-01-01 11:30:00,PESSOALMENTE,Fernando de Noronha,PRAIA DA CONCEIÇÃO OU DE ITALCABLE,Atendida,M,65,Vítima ilesa,2022,maio
+2022-05-23,1900-01-01 16:00:00,CO DO GRUPAMENTO,Fernando de Noronha,BAÍA DE SANTO ANTÔNIO,Atendida,M,58,Vítima ilesa,2022,maio
+2022-05-25,1900-01-01 08:52:00,CO DO GRUPAMENTO,Fernando de Noronha,"PRAIA DO CACHORRO, NA VILA DOS REMÉDIOS",Não Atendida,,,,2022,maio
+2022-06-28,1900-01-01 13:22:00,CO DO GRUPAMENTO,Jaboatão dos Guararapes,CANDEIAS,Atendida,F,32,Vítima ilesa,2022,junho
+2022-06-01,1900-01-01 08:16:00,CO DO GRUPAMENTO,Paulista,PARATIBE,Atendida,Não identificado,,,2022,junho
+2022-06-01,1900-01-01 09:15:00,CO DO GRUPAMENTO,Paulista,PARATIBE,Atendida,Não identificado,,,2022,junho
+2022-06-02,1900-01-01 09:30:00,CO DO GRUPAMENTO,Jaboatão dos Guararapes,CENTRO,Atendida,Não identificado,,,2022,junho
+2022-06-06,1900-01-01 13:35:00,CIODS,Jaboatão dos Guararapes,PIEDADE,Atendida,M,,Vítima ilesa,2022,junho
+2022-06-15,,PESSOALMENTE,Fernando de Noronha,PRAIA DA CONCEIçÃO OU DE ITALCABLE,Atendida,F,40,Vítima ilesa,2022,junho
+2022-07-08,1900-01-01 11:33:00,CIODS,Recife,BOA VIAGEM,Não Atendida,,,,2022,julho
+2022-07-18,1900-01-01 02:55:00,CO DO GRUPAMENTO,Recife,BOA VIAGEM,Não Atendida,,,,2022,julho
+2022-07-04,1900-01-01 14:45:00,PESSOALMENTE,Olinda,CASA CAIADA,Atendida,M,18,Vítima ilesa,2022,julho
+2022-07-08,1900-01-01 16:30:00,PESSOALMENTE,Recife,BRASÍLIA TEIMOSA,Atendida,M,,Vítima fatal,2022,julho
+2022-07-09,1900-01-01 11:00:00,CO DO GRUPAMENTO,Olinda,CASA CAIADA,Atendida,M,21,Vítima ilesa,2022,julho
+2022-07-13,1900-01-01 14:15:00,CIODS,Jaboatão dos Guararapes,PIEDADE,Atendida,M,21,Vítima ferida,2022,julho
+2022-07-26,1900-01-01 15:41:00,PESSOALMENTE,Recife,BOA VIAGEM,Atendida,F,26,Vítima ilesa,2022,julho
+2022-08-14,1900-01-01 19:33:00,CO DO GRUPAMENTO,Jaboatão dos Guararapes,MURIBECA,Atendida,Não identificado,,,2022,agosto
+2022-08-03,1900-01-01 08:30:00,CIODS,Recife,Jordão,Atendida,Não identificado,,,2022,agosto
+2022-08-12,1900-01-01 11:40:00,OUTRO,Olinda,Bairro Novo,Atendida,Não identificado,,,2022,agosto
+2022-08-13,1900-01-01 16:00:00,PESSOALMENTE,Recife,BRASÍLIA TEIMOSA,Atendida,Não identificado,,,2022,agosto
+2022-08-20,1900-01-01 11:00:00,PESSOALMENTE,Olinda,BAIRRO NOVO,Atendida,Não identificado,,,2022,agosto
+2022-08-21,1900-01-01 15:20:00,PESSOALMENTE,Olinda,BAIRRO NOVO,Atendida,Não identificado,,,2022,agosto
+2022-08-21,1900-01-01 09:00:00,PESSOALMENTE,Olinda,CASA CAIADA,Atendida,Não identificado,,,2022,agosto
+2022-08-07,1900-01-01 11:15:00,PESSOALMENTE,Fernando de Noronha,BAÍA DE SANTO ANTÔNIO,Atendida,M,37,,2022,agosto
+2022-08-07,1900-01-01 16:50:00,PESSOALMENTE,Fernando de Noronha,BAÍA DE SANTO ANTÔNIO,Atendida,Não identificado,,,2022,agosto
+2022-09-04,1900-01-01 13:49:00,CO DO GRUPAMENTO,Recife,BOA VIAGEM,Não Atendida,F,54,Vítima ferida,2022,setembro
+2022-09-14,1900-01-01 13:30:00,CIODS,Jaboatão dos Guararapes,BARRA DE JANGADA,Não Atendida,M,37,Vítima ferida,2022,setembro
+2022-09-07,1900-01-01 10:30:00,PESSOALMENTE,Recife,PINA,Atendida,Não identificado,,,2022,setembro
+2022-09-07,1900-01-01 10:30:00,PESSOALMENTE,Recife,PINA,Atendida,Não identificado,,,2022,setembro
+2022-09-07,1900-01-01 10:30:00,PESSOALMENTE,Recife,PINA,Atendida,Não identificado,,,2022,setembro
+2022-09-07,1900-01-01 10:30:00,PESSOALMENTE,Recife,PINA,Atendida,Não identificado,,,2022,setembro
+2022-09-07,1900-01-01 00:00:00,CIODS,Recife,BOA VIAGEM,Atendida,Não identificado,,,2022,setembro
+2022-09-11,1900-01-01 00:00:00,PESSOALMENTE,Recife,BOA VIAGEM,Atendida,Não identificado,,,2022,setembro
+2022-09-15,1900-01-01 00:00:00,PESSOALMENTE,Recife,BOA VIAGEM,Atendida,Não identificado,,,2022,setembro
+2022-09-19,1900-01-01 00:00:00,PESSOALMENTE,Jaboatão dos Guararapes,PIEDADE,Atendida,Não identificado,,,2022,setembro
+2022-09-30,1900-01-01 00:00:00,PESSOALMENTE,Recife,PINA,Atendida,Não identificado,,,2022,setembro
+2022-09-16,1900-01-01 16:30:00,PESSOALMENTE,Fernando de Noronha,Praia da Conceição ou de Italcable,Atendida,Não identificado,,,2022,setembro
+2022-09-16,1900-01-01 16:30:00,PESSOALMENTE,Fernando de Noronha,Praia da Conceição ou de Italcable,Atendida,Não identificado,,,2022,setembro
+2022-10-23,1900-01-01 13:05:00,CIODS,Jaboatão dos Guararapes,BARRA DE JANGADA,Não Atendida,M,Não identificado,Vítima ilesa,2022,outubro
+2022-10-23,1900-01-01 13:38:00,CIODS,Jaboatão dos Guararapes,PIEDADE,Não Atendida,M,16,Vítima fatal,2022,outubro
+2022-10-09,1900-01-01 10:00:00,CO DO GRUPAMENTO,São Lourenço da Mata,OUTRO,Atendida,Não identificado,,,2022,outubro
+2022-10-12,1900-01-01 09:20:00,CO DO GRUPAMENTO,Paulista,OUTRO,Atendida,Não identificado,,,2022,outubro
+2022-10-23,1900-01-01 17:45:00,CIODS,Jaboatão dos Guararapes,BARRA DE JANGADA,Não Atendida,,,,2022,outubro
+2022-10-03,1900-01-01 07:00:00,PESSOALMENTE,Olinda,BAIRRO NOVO,Atendida,Não identificado,,,2022,outubro
+2022-10-03,1900-01-01 07:00:00,PESSOALMENTE,Olinda,BAIRRO NOVO,Atendida,Não identificado,,,2022,outubro
+2022-10-03,1900-01-01 07:00:00,PESSOALMENTE,Olinda,BAIRRO NOVO,Atendida,Não identificado,,,2022,outubro
+2022-10-03,1900-01-01 07:00:00,PESSOALMENTE,Olinda,BAIRRO NOVO,Atendida,Não identificado,,,2022,outubro
+2022-10-07,1900-01-01 07:00:00,PESSOALMENTE,Olinda,BAIRRO NOVO,Atendida,Não identificado,,,2022,outubro
+2022-10-12,1900-01-01 07:00:00,PESSOALMENTE,Olinda,BAIRRO NOVO,Atendida,Não identificado,,,2022,outubro
+2022-10-12,1900-01-01 07:00:00,PESSOALMENTE,Olinda,BAIRRO NOVO,Atendida,Não identificado,,,2022,outubro
+2022-10-12,1900-01-01 07:00:00,PESSOALMENTE,Olinda,BAIRRO NOVO,Atendida,Não identificado,,,2022,outubro
+2022-10-12,1900-01-01 07:00:00,PESSOALMENTE,Olinda,BAIRRO NOVO,Atendida,Não identificado,,,2022,outubro
+2022-10-12,1900-01-01 07:00:00,PESSOALMENTE,Olinda,BAIRRO NOVO,Atendida,Não identificado,,,2022,outubro
+2022-10-12,1900-01-01 07:00:00,PESSOALMENTE,Olinda,BAIRRO NOVO,Atendida,Não identificado,,,2022,outubro
+2022-10-12,1900-01-01 07:00:00,PESSOALMENTE,Olinda,BAIRRO NOVO,Atendida,Não identificado,,,2022,outubro
+2022-10-12,1900-01-01 07:00:00,PESSOALMENTE,Olinda,BAIRRO NOVO,Atendida,Não identificado,,,2022,outubro
+2022-10-12,1900-01-01 07:00:00,PESSOALMENTE,Olinda,BAIRRO NOVO,Atendida,Não identificado,,,2022,outubro
+2022-10-23,1900-01-01 07:00:00,PESSOALMENTE,Jaboatão dos Guararapes,BAIRRO NOVO,Atendida,Não identificado,,,2022,outubro
+2022-10-30,1900-01-01 10:00:00,CIODS,Recife,BAIRRO NOVO,Atendida,Não identificado,,,2022,outubro
+2022-10-31,1900-01-01 10:00:00,PESSOALMENTE,Recife,BAIRRO NOVO,Atendida,Não identificado,,,2022,outubro
+2022-11-02,1900-01-01 15:38:00,CO DO GRUPAMENTO,São Lourenço da Mata,CENTRO,Atendida,M,16,Vítima fatal,2022,novembro
+2022-11-09,1900-01-01 10:36:00,CO DO GRUPAMENTO,Fernando de Noronha,OUTRO,Atendida,Não identificado,,,2022,novembro
+2022-12-11,1900-01-01 15:36:00,CO DO GRUPAMENTO,Jaboatão dos Guararapes,MURIBECA,Atendida,M,67,,2022,dezembro
+2022-12-13,1900-01-01 10:52:00,CO DO GRUPAMENTO,Recife,BOA VIAGEM,Atendida,M,16,,2022,dezembro
+2022-12-01,1900-01-01 13:50:00,CO DO GRUPAMENTO,Paulista,JANGA,Atendida,M,50,,2022,dezembro
+2022-12-10,1900-01-01 18:46:00,CO DO GRUPAMENTO,Igarassu,NOVA CRUZ,Não Atendida,,,,2022,dezembro
+2022-12-17,1900-01-01 12:20:00,CO DO GRUPAMENTO,Ipojuca,OUTRO,Atendida,Não identificado,,,2022,dezembro
+2022-12-10,1900-01-01 18:46:00,CO DO GRUPAMENTO,Igarassu,NOVA CRUZ,Não Atendida,,,,2022,dezembro
+2022-12-17,1900-01-01 12:20:00,CO DO GRUPAMENTO,Ipojuca,OUTRO,Atendida,Não identificado,,,2022,dezembro
+2022-12-01,1900-01-01 13:50:00,CO DO GRUPAMENTO,Paulista,JANGA,Atendida,M,50,,2022,dezembro
+2022-12-04,1900-01-01 17:20:00,CO DO GRUPAMENTO,Passira,ZONA RURAL,Não Atendida,,,,2022,dezembro
+2022-12-12,1900-01-01 11:00:00,CO DO GRUPAMENTO,Águas Belas,SÍTIO BOA VISTA,Atendida,M,29,,2022,dezembro
+2022-12-04,1900-01-01 11:10:00,PESSOALMENTE,Recife,BOA VIAGEM,Atendida,F,28,,2022,dezembro
+2022-12-10,1900-01-01 16:00:00,PESSOALMENTE,Jaboatão dos Guararapes,BARRA DE JANGADA,Atendida,F,14,,2022,dezembro
+2022-12-10,1900-01-01 16:00:00,PESSOALMENTE,Jaboatão dos Guararapes,BARRA DE JANGADA,Atendida,M,17,,2022,dezembro
+2022-12-10,1900-01-01 16:00:00,PESSOALMENTE,Jaboatão dos Guararapes,BARRA DE JANGADA,Atendida,F,14,,2022,dezembro
+2022-12-13,1900-01-01 17:20:00,CIODS,Recife,BOA VIAGEM,Atendida,M,50,,2022,dezembro
+2022-12-01,1900-01-01 13:15:00,PESSOALMENTE,Fernando de Noronha,BAÍA DE SANTO ANTÔNIO,Atendida,F,11,,2022,dezembro
+2022-12-01,1900-01-01 13:30:00,PESSOALMENTE,Fernando de Noronha,BAÍA DE SANTO ANTÔNIO,Atendida,M,23,,2022,dezembro
+2022-12-25,1900-01-01 16:10:00,CO DO GRUPAMENTO,Fernando de Noronha,PRAIA DA CONCEIÇÃO OU DE ITALCABLE,Atendida,F,11,,2022,dezembro
+2022-12-31,1900-01-01 12:30:00,PESSOALMENTE,Fernando de Noronha,PRAIA DA CONCEIÇÃO OU DE ITALCABLE,Atendida,M,30,,2022,dezembro
+2022-12-31,1900-01-01 16:40:00,PESSOALMENTE,Fernando de Noronha,PRAIA DA CONCEIÇÃO OU DE ITALCABLE,Atendida,F,34,,2022,dezembro
+2022-01-20,1900-01-01 13:30:00,CIODS,Vitória de Santo Antão,MARANHÃO,Atendida,M,38,Vítima fatal,2022,janeiro
+2022-01-26,1900-01-01 17:40:00,CIODS,Lajedo,ZONA RURAL,Atendida,M,32,Vítima ilesa,2022,janeiro
+2022-04-29,,PESSOALMENTE,Gravatá,NOSSA SENHORA DA CONCEIÇÃO,Não Atendida,M,2,Vítima ferida,2022,abril
+2022-06-23,1900-01-01 10:12:00,CIODS,Limoeiro,ZONA RURAL,Não Atendida,,,,2022,junho
+2022-06-23,1900-01-01 10:25:00,OUTRO,Limoeiro,ZONA RURAL,Não Atendida,,,,2022,junho
+2022-07-07,1900-01-01 17:00:00,CO DO GRUPAMENTO,Catende,CENTRO,Atendida,Não identificado,,Vítima desaparecida,2022,julho
+2022-07-04,,CO DO GRUPAMENTO,Brejão,CENTRO,Não Atendida,,,,2022,julho
+2022-07-23,1900-01-01 18:55:00,CO DO GRUPAMENTO,Garanhuns,HELIÓPOLIS,Atendida,Não identificado,,,2022,julho
+2022-08-05,1900-01-01 22:03:00,CO DO GRUPAMENTO,Caruaru,ALTO DO MOURA,Atendida,Não identificado,,,2022,agosto
+2022-08-14,1900-01-01 14:40:00,CO DO GRUPAMENTO,Calçados,ZONA RURAL,Atendida,Não identificado,,,2022,agosto
+2022-08-18,1900-01-01 14:45:00,CO DO GRUPAMENTO,Surubim,SANTO ANTÔNIO,Atendida,M,Não identificado,Vítima desaparecida,2022,agosto
+2022-10-22,1900-01-01 17:54:00,CO DO GRUPAMENTO,Barreiros,ZONA RURAL,Atendida,M,43,Vítima fatal,2022,outubro
+2022-11-29,1900-01-01 11:20:00,PESSOALMENTE,Bom Conselho,ZONA RURAL,Atendida,M,39,Vítima fatal,2022,novembro
+2022-11-13,1900-01-01 18:42:00,CIODS,Feira Nova,ZONA RURAL,Atendida,M,16,Vítima desaparecida,2022,novembro
+2022-12-20,1900-01-01 23:10:00,CIODS,Caruaru,ZONA RURAL,Atendida,M,74,,2022,dezembro
+2022-12-03,1900-01-01 19:06:00,CO DO GRUPAMENTO,Garanhuns,MAGANO,Atendida,M,Não identificado,Vítima fatal,2022,dezembro
+2022-12-12,,CIODS,Águas Belas,ZONA RURAL,Atendida,Não identificado,,,2022,dezembro
+2022-12-19,1900-01-01 10:33:00,CIODS,Paudalho,GUADALAJARA,Atendida,M,20,Vítima fatal,2022,dezembro
+2022-07-24,1900-01-01 18:35:00,CO DO GRUPAMENTO,Serra Talhada,DNOCS,Atendida,M,Não identificado,,2022,julho
+2022-06-05,1900-01-01 10:02:00,CO DO GRUPAMENTO,Afrânio,ZONA RURAL,Atendida,M,84,Vítima fatal,2022,junho
+2022-04-10,1900-01-01 17:30:00,CO DO GRUPAMENTO,Petrolina,CENTRO,Atendida,M,5,Vítima fatal,2022,abril
+2022-02-20,1900-01-01 19:30:00,CO DO GRUPAMENTO,Petrolina,CENTRO,Não Atendida,,,,2022,fevereiro
+2022-02-19,1900-01-01 11:52:00,CO DO GRUPAMENTO,Petrolina,ZONA RURAL,Atendida,M,39,Vítima fatal,2022,fevereiro
+2022-01-26,1900-01-01 14:42:00,CO DO GRUPAMENTO,Petrolina,ORLA FLUVIAL,Atendida,M,52,Vítima fatal,2022,janeiro
+2022-01-23,1900-01-01 09:07:00,CO DO GRUPAMENTO,Petrolina,ORLA FLUVIAL,Não Atendida,,,,2022,janeiro
+2022-01-13,1900-01-01 17:45:00,CO DO GRUPAMENTO,Petrolina,PEDRA DO BODE,Atendida,M,14,Vítima fatal,2022,janeiro
+2022-02-18,1900-01-01 16:38:00,PESSOALMENTE,Santa Maria da Boa Vista,CENTRO,Atendida,F,31,Vítima fatal,2022,fevereiro
+2022-01-03,1900-01-01 06:20:00,CO DO GRUPAMENTO,Santa Maria da Boa Vista,CENTRO,Atendida,M,20,Vítima ilesa,2022,janeiro
+2022-11-11,1900-01-01 22:40:00,CO DO GRUPAMENTO,Cabrobó,LOTEAMENTO DAS CHÁCARAS,Não Atendida,M,Não identificado,Vítima fatal,2022,novembro
+2022-12-25,1900-01-01 09:10:00,Outro,Araripina,CAVALETE II,Atendida,Não identificado,,,2022,dezembro
+2022-10-29,1900-01-01 16:55:00,PESSOALMENTE,Ouricuri,ALTO PARAISO,Atendida,M,25,Vítima fatal,2022,outubro
+2022-12-10,1900-01-01 13:15:00,CO DO GRUPAMENTO,Arcoverde,SÃO CRISTOVAO,Atendida,M,15,Vítima desaparecida,2022,dezembro
+2022-09-08,1900-01-01 12:37:00,CO DO GRUPAMENTO,Pedra,ZONA RURAL,Atendida,M,36,Vítima fatal,2022,setembro
+2022-07-01,1900-01-01 22:45:00,PESSOALMENTE,Ibimirim,ZONA RURAL,Atendida,Não identificado,,,2022,julho
+2022-02-26,1900-01-01 13:25:00,CO DO GRUPAMENTO,Arcoverde,ZONA RURAL,Atendida,Não identificado,,,2022,fevereiro
+2022-10-19,1900-01-01 14:11:00,CO DO GRUPAMENTO,Alagoinha,ZONA RURAL,Atendida,Não identificado,,,2022,outubro
+2022-10-18,1900-01-01 18:30:00,CO DO GRUPAMENTO,Alagoinha,ZONA RURAL,Não Atendida,,,,2022,outubro
+2022-10-03,1900-01-01 16:18:00,CO DO GRUPAMENTO,Pesqueira,ZONA RURAL,Atendida,M,29,Vítima desaparecida,2022,outubro
+2023-01-01,1900-01-01 11:05:00,CO DO GRUPAMENTO,Recife,PINA,Atendida,M,40,Vítima ilesa,2023,janeiro
+2023-01-03,1900-01-01 14:33:00,CIODS,Recife,BOA VIAGEM,Não Atendida,,,,2023,janeiro
+2023-01-25,1900-01-01 16:32:00,CIODS,Recife,PINA,Atendida,M,51,Vítima ferida,2023,janeiro
+2023-01-26,1900-01-01 12:35:00,CIODS,Recife,BOA VIAGEM,Não Atendida,,,,2023,janeiro
+2023-01-26,1900-01-01 12:28:00,CO DO GRUPAMENTO,Recife,BOA VIAGEM,Atendida,M,58,Vítima ilesa,2023,janeiro
+2023-02-05,1900-01-01 12:52:00,CIODS,Recife,BOA VIAGEM,Não Atendida,,,,2023,fevereiro
+2023-02-19,1900-01-01 11:26:00,CO DO GRUPAMENTO,Recife,BOA VIAGEM,Atendida,F,68,Vítima ilesa,2023,fevereiro
+2023-02-19,1900-01-01 16:35:00,CO DO GRUPAMENTO,Recife,BOA VIAGEM,Não Atendida,,,,2023,fevereiro
+2023-03-13,1900-01-01 10:57:00,CIODS,Ipojuca,PRAIA DE PORTO DE GALINHAS,Não Atendida,,,,2023,março
+2023-01-01,1900-01-01 11:22:00,CIODS,Recife,BOA VIAGEM,Atendida,F,16,Vítima fatal,2023,janeiro
+2023-01-01,1900-01-01 11:22:00,CIODS,Recife,BOA VIAGEM,Atendida,F,14,Vítima ilesa,2023,janeiro
+2023-01-01,1900-01-01 11:22:00,CIODS,Recife,BOA VIAGEM,Atendida,M,18,Vítima ilesa,2023,janeiro
+2023-01-01,1900-01-01 11:22:00,CIODS,Recife,BOA VIAGEM,Atendida,M,40,Vítima ilesa,2023,janeiro
+2023-01-01,1900-01-01 09:20:00,PESSOALMENTE,Recife,PINA,Atendida,F,Não identificado,Vítima ilesa,2023,janeiro
+2023-01-01,1900-01-01 09:20:00,PESSOALMENTE,Recife,PINA,Atendida,M,Não identificado,Vítima ilesa,2023,janeiro
+2023-01-01,1900-01-01 11:00:00,PESSOALMENTE,Recife,PINA,Atendida,F,Não identificado,Vítima ilesa,2023,janeiro
+2023-01-01,1900-01-01 11:00:00,PESSOALMENTE,Recife,PINA,Atendida,M,Não identificado,Vítima ilesa,2023,janeiro
+2023-01-01,1900-01-01 11:50:00,PESSOALMENTE,Recife,PINA,Atendida,M,Não identificado,Vítima ilesa,2023,janeiro
+2023-01-01,1900-01-01 13:10:00,PESSOALMENTE,Recife,PINA,Atendida,M,Não identificado,Vítima ilesa,2023,janeiro
+2023-01-01,1900-01-01 13:10:00,PESSOALMENTE,Recife,PINA,Atendida,M,Não identificado,Vítima ilesa,2023,janeiro
+2023-01-01,1900-01-01 13:50:00,PESSOALMENTE,Recife,PINA,Atendida,M,Não identificado,Vítima ilesa,2023,janeiro
+2023-01-01,1900-01-01 13:50:00,PESSOALMENTE,Recife,PINA,Atendida,M,Não identificado,Vítima ilesa,2023,janeiro
+2023-01-01,1900-01-01 13:50:00,PESSOALMENTE,Recife,PINA,Atendida,M,Não identificado,Vítima ilesa,2023,janeiro
+2023-01-01,1900-01-01 13:50:00,PESSOALMENTE,Recife,PINA,Atendida,M,Não identificado,Vítima ilesa,2023,janeiro
+2023-01-01,1900-01-01 14:20:00,PESSOALMENTE,Recife,PINA,Atendida,M,Não identificado,Vítima ilesa,2023,janeiro
+2023-01-01,1900-01-01 14:20:00,PESSOALMENTE,Recife,PINA,Atendida,M,Não identificado,Vítima ilesa,2023,janeiro
+2023-01-01,1900-01-01 15:10:00,PESSOALMENTE,Recife,PINA,Atendida,F,Não identificado,Vítima ilesa,2023,janeiro
+2023-01-01,1900-01-01 15:50:00,OUTRO,Recife,PINA,Atendida,F,Não identificado,Vítima ilesa,2023,janeiro
+2023-01-03,1900-01-01 14:40:00,PESSOALMENTE,Recife,BOA VIAGEM,Atendida,F,14,Vítima ilesa,2023,janeiro
+2023-01-03,1900-01-01 14:40:00,PESSOALMENTE,Recife,BOA VIAGEM,Atendida,F,18,Vítima ilesa,2023,janeiro
+2023-01-03,1900-01-01 14:40:00,PESSOALMENTE,Recife,BOA VIAGEM,Atendida,F,16,Vítima ilesa,2023,janeiro
+2023-01-04,1900-01-01 16:13:00,CIODS,Recife,BRASÍLIA TEIMOSA,Atendida,M,47,Vítima ilesa,2023,janeiro
+2023-01-04,1900-01-01 16:13:00,CIODS,Recife,BRASÍLIA TEIMOSA,Atendida,M,10,Vítima ilesa,2023,janeiro
+2023-01-05,1900-01-01 10:30:00,OUTRO,Recife,BOA VIAGEM,Atendida,F,Não identificado,Vítima ilesa,2023,janeiro
+2023-01-05,1900-01-01 10:30:00,OUTRO,Recife,BOA VIAGEM,Atendida,M,Não identificado,Vítima ilesa,2023,janeiro
+2023-01-08,1900-01-01 11:32:00,PESSOALMENTE,Recife,BOA VIAGEM,Atendida,F,19,Vítima ilesa,2023,janeiro
+2023-01-08,1900-01-01 15:30:00,PESSOALMENTE,Recife,BOA VIAGEM,Atendida,M,23,Vítima ilesa,2023,janeiro
+2023-01-08,1900-01-01 15:00:00,OUTRO,Recife,BRASÍLIA TEIMOSA,Atendida,M,66,Vítima ilesa,2023,janeiro
+2023-01-14,1900-01-01 09:00:00,PESSOALMENTE,Recife,BOA VIAGEM,Atendida,M,19,Vítima ilesa,2023,janeiro
+2023-01-15,1900-01-01 09:00:00,OUTRO,Ilha de Itamaracá,FORTE ORANGE,Atendida,F,22,Vítima ilesa,2023,janeiro
+2023-01-15,1900-01-01 09:00:00,OUTRO,Ilha de Itamaracá,FORTE ORANGE,Atendida,Não identificado,Não identificado,Vítima ilesa,2023,janeiro
+2023-01-15,1900-01-01 09:00:00,OUTRO,Ilha de Itamaracá,FORTE ORANGE,Atendida,Não identificado,Não identificado,Vítima ilesa,2023,janeiro
+2023-01-22,1900-01-01 10:45:00,CIODS,Recife,BOA VIAGEM,Atendida,Não identificado,Não identificado,Vítima ilesa,2023,janeiro
+2023-01-25,1900-01-01 16:20:00,PESSOALMENTE,Recife,PINA,Atendida,M,51,Vítima ilesa,2023,janeiro
+2023-01-25,1900-01-01 17:33:00,CIODS,Recife,BOA VIAGEM,Atendida,M,Não identificado,Vítima desaparecida,2023,janeiro
+2023-01-26,1900-01-01 12:30:00,OUTRO,Recife,BOA VIAGEM,Atendida,F,21,Vítima ilesa,2023,janeiro
+2023-01-26,1900-01-01 12:30:00,OUTRO,Recife,BOA VIAGEM,Atendida,M,58,Vítima ilesa,2023,janeiro
+2023-01-28,1900-01-01 11:45:00,CIODS,Recife,BOA VIAGEM,Atendida,F,9,Vítima ilesa,2023,janeiro
+2023-02-03,1900-01-01 14:02:00,CIODS,Recife,BOA VIAGEM,Atendida,F,45,Vítima ilesa,2023,fevereiro
+2023-02-04,1900-01-01 16:30:00,OUTRO,Ilha de Itamaracá,FORTE ORANGE,Atendida,Não identificado,Não identificado,Vítima ferida,2023,fevereiro
+2023-02-19,1900-01-01 11:35:00,CIODS,Recife,BOA VIAGEM,Atendida,F,81,Vítima fatal,2023,fevereiro
+2023-02-20,1900-01-01 07:00:00,PESSOALMENTE,Olinda,BAIRRO NOVO,Atendida,M,15,Vítima ilesa,2023,fevereiro
+2023-02-20,1900-01-01 07:00:00,PESSOALMENTE,Olinda,BAIRRO NOVO,Atendida,M,23,Vítima ilesa,2023,fevereiro
+2023-02-20,1900-01-01 07:00:00,PESSOALMENTE,Olinda,BAIRRO NOVO,Atendida,F,57,Vítima ilesa,2023,fevereiro
+2023-02-20,1900-01-01 07:00:00,PESSOALMENTE,Olinda,BAIRRO NOVO,Atendida,M,49,Vítima ilesa,2023,fevereiro
+2023-02-20,1900-01-01 07:00:00,PESSOALMENTE,Olinda,BAIRRO NOVO,Atendida,M,22,Vítima ilesa,2023,fevereiro
+2023-02-21,1900-01-01 14:00:00,PESSOALMENTE,Olinda,CASA CAIADA,Atendida,F,17,Vítima ilesa,2023,fevereiro
+2023-02-21,1900-01-01 08:30:00,PESSOALMENTE,Olinda,BAIRRO NOVO,Atendida,M,38,Vítima ilesa,2023,fevereiro
+2023-02-22,1900-01-01 15:00:00,OUTRO,Olinda,CASA CAIADA,Atendida,M,38,Vítima ilesa,2023,fevereiro
+2023-02-22,1900-01-01 15:00:00,OUTRO,Olinda,CASA CAIADA,Atendida,M,Não identificado,Vítima ilesa,2023,fevereiro
+2023-02-26,1900-01-01 13:00:00,PESSOALMENTE,Olinda,BAIRRO NOVO,Atendida,M,19,Vítima ilesa,2023,fevereiro
+2023-02-26,,PESSOALMENTE,Olinda,CASA CAIADA,Atendida,F,16,Vítima ilesa,2023,fevereiro
+2023-03-06,1900-01-01 10:20:00,PESSOALMENTE,Recife,BOA VIAGEM,Atendida,M,30,Vítima ilesa,2023,março
+2023-03-06,1900-01-01 10:20:00,PESSOALMENTE,Recife,BOA VIAGEM,Atendida,M,12,Vítima ilesa,2023,março
+2023-03-11,1900-01-01 12:30:00,PESSOALMENTE,Jaboatão dos Guararapes,PIEDADE,Atendida,M,39,Vítima ilesa,2023,março
+2023-03-28,1900-01-01 13:30:00,PESSOALMENTE,Olinda,BAIRRO NOVO,Atendida,M,16,Vítima ilesa,2023,março
+2023-03-28,1900-01-01 13:30:00,PESSOALMENTE,Olinda,BAIRRO NOVO,Atendida,M,18,Vítima ilesa,2023,março
+2023-04-02,1900-01-01 12:20:00,PESSOALMENTE,Recife,BOA VIAGEM,Atendida,F,41,Vítima ilesa,2023,abril
+2023-04-02,1900-01-01 12:20:00,PESSOALMENTE,Recife,BOA VIAGEM,Atendida,M,22,Vítima ilesa,2023,abril
+2023-04-05,1900-01-01 10:50:00,PESSOALMENTE,Olinda,BAIRRO NOVO,Atendida,M,18,Vítima ilesa,2023,abril
+2023-04-05,1900-01-01 10:50:00,PESSOALMENTE,Olinda,BAIRRO NOVO,Atendida,M,15,Vítima ilesa,2023,abril
+2023-04-06,1900-01-01 13:30:00,PESSOALMENTE,Olinda,BAIRRO NOVO,Atendida,M,16,Vítima ilesa,2023,abril
+2023-04-13,1900-01-01 14:30:00,PESSOALMENTE,Olinda,BAIRRO NOVO,Atendida,M,19,Vítima ilesa,2023,abril
+2023-04-24,1900-01-01 16:30:00,PESSOALMENTE,Olinda,BAIRRO NOVO,Atendida,M,22,Vítima ilesa,2023,abril
+2023-04-28,1900-01-01 07:03:00,CIODS,Recife,BOA VIAGEM,Atendida,Não identificado,,,2023,abril
+2023-02-12,1900-01-01 14:48:00,CO DO GRUPAMENTO,Fernando de Noronha,"PRAIA DO BOLDRÓ, NA VILA BOLDRÓ",Atendida,M,25,Vítima ferida,2023,fevereiro
+2023-03-17,1900-01-01 13:24:00,PESSOALMENTE,Fernando de Noronha,BAÍA DE SANTO ANTÔNIO,Atendida,M,56,Vítima ilesa,2023,março
+2023-03-17,1900-01-01 13:24:00,PESSOALMENTE,Fernando de Noronha,BAÍA DE SANTO ANTÔNIO,Atendida,F,42,Vítima ilesa,2023,março
+2023-04-25,1900-01-01 12:40:00,PESSOALMENTE,Fernando de Noronha,"PRAIA DO CACHORRO, NA VILA DOS REMÉDIOS",Atendida,M,60,Vítima ilesa,2023,abril
+2023-02-13,1900-01-01 02:25:00,CO DO GRUPAMENTO,Recife,SANTO ANTÔNIO,Atendida,Não identificado,,,2023,fevereiro
+2023-03-21,1900-01-01 07:20:00,CO DO GRUPAMENTO,Passira,OUTRO,Atendida,M,54,Vítima fatal,2023,março
+2023-04-02,1900-01-01 08:00:00,CIODS,Jaboatão dos Guararapes,OUTRO,Atendida,M,Não identificado,Vítima fatal,2023,abril
+2023-04-08,1900-01-01 14:50:00,CO DO GRUPAMENTO,Ilha de Itamaracá,PILAR,Não Atendida,M,Não identificado,Vítima ferida,2023,abril
+2023-01-10,1900-01-01 17:21:00,CO DO GRUPAMENTO,Gravatá,NORTE,Atendida,M,48,Vítima ilesa,2023,janeiro
+2023-01-31,1900-01-01 08:17:00,CO DO GRUPAMENTO,Palmeirina,ZONA RURAL,Atendida,M,47,Vítima fatal,2023,janeiro
+2023-02-25,1900-01-01 11:09:00,CIODS,Caruaru,ZONA RURAL,Atendida,Não identificado,Não identificado,,2023,fevereiro
+2023-03-18,1900-01-01 20:51:00,CIODS,Caruaru,SEVERINO AFONSO,Atendida,Não identificado,Não identificado,,2023,março
+2023-03-18,1900-01-01 22:05:00,CIODS,Caruaru,JOÃO MOTA,Atendida,Não identificado,Não identificado,,2023,março
+2023-03-18,1900-01-01 20:29:00,CIODS,Caruaru,JOÃO MOTA,Atendida,Não identificado,Não identificado,,2023,março
+2023-03-30,1900-01-01 17:06:00,CIODS,São Bento do Una,SITIO PIMENTA,Não Atendida,,,,2023,março
+2023-04-17,1900-01-01 19:55:00,CO DO GRUPAMENTO,Caruaru,JOSÉ CARLOS DE OLIVEIRA,Atendida,Não identificado,Não identificado,,2023,abril
+2023-04-24,1900-01-01 09:45:00,CO DO GRUPAMENTO,Surubim,SITIO MANDURI,Atendida,M,65,Vítima fatal,2023,abril
+2023-02-12,1900-01-01 16:45:00,CO DO GRUPAMENTO,Serra Talhada,ZONA RURAL,Atendida,M,33,Vítima fatal,2023,fevereiro
+2023-04-02,1900-01-01 16:35:00,CO DO GRUPAMENTO,Flores,ZONA RURAL,Atendida,M,15,Vítima desaparecida,2023,abril
+2023-03-27,1900-01-01 06:43:00,CO DO GRUPAMENTO,Afogados da Ingazeira,ZONA RURAL,Atendida,Não identificado,Não identificado,,2023,março
+2023-01-01,1900-01-01 00:11:00,CO DO GRUPAMENTO,Afogados da Ingazeira,MANOELA VALADARES,Não Atendida,,,,2023,janeiro
+2023-04-29,1900-01-01 16:28:00,CO DO GRUPAMENTO,São José do Egito,ZONA RURAL,Não Atendida,,,,2023,abril
+2023-04-09,1900-01-01 18:15:00,CO DO GRUPAMENTO,Santa Terezinha,ZONA RURAL,Atendida,Não identificado,Não identificado,,2023,abril
+2023-03-20,1900-01-01 17:46:00,CO DO GRUPAMENTO,São José do Egito,ZONA RURAL,Atendida,M,70,Vítima fatal,2023,março
+2023-03-20,1900-01-01 08:41:00,CO DO GRUPAMENTO,São José do Egito,ZONA RURAL,Atendida,Não identificado,Não identificado,,2023,março
+2023-04-18,1900-01-01 19:05:00,CO DO GRUPAMENTO,Petrolina,CENTRO,Atendida,M,16,Vítima fatal,2023,abril
+2023-02-26,1900-01-01 07:51:00,CO DO GRUPAMENTO,Petrolina,ILHA DO FOGO,Atendida,M,25,Vítima fatal,2023,fevereiro
+2023-02-23,1900-01-01 14:00:00,CO DO GRUPAMENTO,Petrolina,CONDOMÍNIO JATOBÁ,Atendida,M,31,Vítima fatal,2023,fevereiro
+2023-02-22,1900-01-01 07:15:00,CO DO GRUPAMENTO,Petrolina,PEDRA DO BODE,Atendida,M,31,Vítima fatal,2023,fevereiro
+2023-02-21,1900-01-01 22:00:00,PESSOALMENTE,Petrolina,PEDRA DO BODE,Atendida,M,Não identificado,Vítima fatal,2023,fevereiro
+2023-01-03,1900-01-01 09:52:00,CO DO GRUPAMENTO,Petrolina,RESIDENCIAL PALMARES,Atendida,M,13,Vítima ferida,2023,janeiro
+2023-01-02,1900-01-01 09:53:00,PESSOALMENTE,Salgueiro,ZONA RURAL,Atendida,M,7,Vítima fatal,2023,janeiro
+2023-01-02,1900-01-01 09:53:00,PESSOALMENTE,Salgueiro,ZONA RURAL,Atendida,M,9,Vítima fatal,2023,janeiro
+2023-01-13,1900-01-01 10:02:00,PESSOALMENTE,Araripina,ZONA RURAL,Atendida,Não identificado,Não identificado,,2023,janeiro
+2023-04-13,1900-01-01 16:23:00,CO DO GRUPAMENTO,Pesqueira,ZONA RURAL,Atendida,F,45,Vítima fatal,2023,abril
+2023-05-05,1900-01-01 15:35:00,CO DO GRUPAMENTO,Toritama,SÍTIO ONCINHAS,Atendida,M,58,Vítima desaparecida,2023,maio
+2023-05-07,1900-01-01 12:50:00,PESSOALMENTE,Fernando de Noronha,"PRAIA DO CACHORRO, NA VILA DOS REMÉDIOS",Atendida,M,33,Vítima ilesa,2023,maio
+2023-05-07,1900-01-01 16:01:00,CO DO GRUPAMENTO,Fernando de Noronha,BAÍA DO SANCHO,Atendida,M,29,Vítima ferida,2023,maio
+2023-05-21,1900-01-01 13:56:00,PESSOALMENTE,Fernando de Noronha,"PRAIA DO CACHORRO, NA VILA DOS REMÉDIOS",Atendida,F,7,Vítima ilesa,2023,maio
+2023-05-25,1900-01-01 09:50:00,PESSOALMENTE,Fernando de Noronha,"PRAIA DO CACHORRO, NA VILA DOS REMÉDIOS",Atendida,M,21,Vítima ilesa,2023,maio
+2023-06-03,1900-01-01 09:00:00,PESSOALMENTE,Recife,BOA VIAGEM,Atendida,Não identificado,,,2023,junho
+2023-05-25,1900-01-01 09:50:00,PESSOALMENTE,Fernando de Noronha,"PRAIA DO CACHORRO, NA VILA DOS REMÉDIOS",Atendida,M,21,Vítima ilesa,2023,maio
+2023-07-01,1900-01-01 00:00:00,PESSOALMENTE,Fernando de Noronha,BAÍA DE SANTO ANTÔNIO,Atendida,F,54,Vítima ilesa,2023,julho
+2023-08-01,1900-01-01 17:24:00,CO DO GRUPAMENTO,Garanhuns,COHAB 3,Atendida,M,56,Vítima fatal,2023,agosto
+2023-08-01,1900-01-01 17:45:00,CO DO GRUPAMENTO,Caruaru,SAO FRANCISCO,Atendida,M,53,Vítima ilesa,2023,agosto
+2023-08-02,1900-01-01 17:25:00,CO DO GRUPAMENTO,Serra Talhada,ZONA RURAL,Atendida,M,69,Vítima fatal,2023,agosto
+2023-08-14,1900-01-01 09:01:00,CO DO GRUPAMENTO,Saloá,CENTRO,Atendida,M,24,Vítima fatal,2023,agosto
+2023-08-15,1900-01-01 14:45:00,PESSOALMENTE,Fernando de Noronha,"PRAIA DO CACHORRO, NA VILA DOS REMÉDIOS",Atendida,F,15,Vítima ilesa,2023,agosto
+2023-08-15,1900-01-01 12:08:00,PESSOALMENTE,Fernando de Noronha,PRAIA DA CONCEIÇÃO OU DE ITALCABLE,Atendida,M,8,Vítima ilesa,2023,agosto
+2023-08-18,1900-01-01 15:55:00,PESSOALMENTE,Fernando de Noronha,"PRAIA DO CACHORRO, NA VILA DOS REMÉDIOS",Atendida,F,34,Vítima ilesa,2023,agosto
+2023-08-19,,OUTRO,São José do Egito,ZONA RURAL ,Não Atendida,,,,2023,agosto
+2023-08-25,1900-01-01 09:50:00,PESSOALMENTE,Fernando de Noronha,BAÍA DE SANTO ANTÔNIO,Atendida,M,35,Vítima ilesa,2023,agosto
+2023-08-30,,CIODS,Goiana,PRAIA DE CATUAMA,Não Atendida,,,,2023,agosto
+2023-09-03,1900-01-01 20:55:00,CO DO GRUPAMENTO,Petrolina,RIO SÃO FRANCISCO,Atendida,Não identificado,,,2023,setembro
+2023-09-06,1900-01-01 07:25:00,CIODS,Arcoverde,SÃO CRISTOVÃO,Atendida,M,36,Vítima fatal,2023,setembro
+2023-09-07,1900-01-01 12:05:00,PESSOALMENTE,Fernando de Noronha,"PRAIA DO CACHORRO, NA VILA DOS REMÉDIOS",Atendida,F,49,Vítima ilesa,2023,setembro
+2023-09-07,1900-01-01 12:25:00,PESSOALMENTE,Fernando de Noronha,"PRAIA DO CACHORRO, NA VILA DOS REMÉDIOS",Atendida,M,34,Vítima ilesa,2023,setembro
+2023-09-08,1900-01-01 00:00:00,PESSOALMENTE,Fernando de Noronha,PRAIA DA CONCEIÇÃO OU DE ITALCABLE,Atendida,F,40,Vítima ilesa,2023,setembro
+2023-09-11,1900-01-01 07:00:00,PESSOALMENTE,Olinda,BAIRRO NOVO,Atendida,M,15,Vítima ilesa,2023,setembro
+2023-09-12,1900-01-01 15:30:00,CO DO GRUPAMENTO,Correntes,BAHIA,Atendida,M,38,Vítima fatal,2023,setembro
+2023-09-18,1900-01-01 11:40:00,PESSOALMENTE,Fernando de Noronha,"PRAIA DO CACHORRO, NA VILA DOS REMÉDIOS",Atendida,F,50,Vítima ilesa,2023,setembro
+2023-09-19,1900-01-01 07:00:00,OUTRO,Olinda,BAIRRO NOVO,Atendida,M,17,Vítima ilesa,2023,setembro
+2023-09-19,1900-01-01 13:20:00,PESSOALMENTE,Fernando de Noronha,"PRAIA DO CACHORRO, NA VILA DOS REMÉDIOS",Atendida,F,34,Vítima ilesa,2023,setembro
+2023-09-27,1900-01-01 10:53:00,CO DO GRUPAMENTO,Serra Talhada,ZONA RURAL,Atendida,Não identificado,,,2023,setembro
+2023-09-29,1900-01-01 07:00:00,OUTRO,Olinda,BAIRRO NOVO,Atendida,M,16,Vítima ilesa,2023,setembro
+2023-09-29,1900-01-01 07:00:00,OUTRO,Olinda,BAIRRO NOVO,Atendida,M,17,Vítima ilesa,2023,setembro
+2023-10-01,1900-01-01 16:29:00,PESSOALMENTE,Petrolândia,CENTRO,Atendida,M,,Vítima fatal,2023,outubro
+2023-10-02,1900-01-01 16:15:00,OUTRO,Olinda,BAIRRO NOVO,Atendida,M,15,Vítima ilesa,2023,outubro
+2023-10-08,1900-01-01 13:10:00,PESSOALMENTE,Recife,BRASÍLIA TEIMOSA,Atendida,M,57,Vítima ferida,2023,outubro
+2023-10-10,1900-01-01 15:20:00,OUTRO,Fernando de Noronha,PRAIA DA CONCEIÇÃO OU DE ITALCABLE,Atendida,M,50,Vítima ilesa,2023,outubro
+2023-10-14,1900-01-01 15:46:00,CO DO GRUPAMENTO,Petrolina,CENTRO,Atendida,M,,Vítima fatal,2023,outubro
+2023-10-15,1900-01-01 10:36:00,CO DO GRUPAMENTO,Pesqueira,ZONA RURAL,Atendida,M,,Vítima fatal,2023,outubro
+2023-10-16,1900-01-01 07:00:00,OUTRO,Olinda,BAIRRO NOVO,Atendida,M,,Vítima ilesa,2023,outubro
+2023-10-20,1900-01-01 14:08:00,PESSOALMENTE,Fernando de Noronha,"PRAIA DO CACHORRO, NA VILA DOS REMÉDIOS",Atendida,F,36,Vítima ilesa,2023,outubro
+2023-10-20,1900-01-01 15:48:00,PESSOALMENTE,Fernando de Noronha,"PRAIA DO CACHORRO, NA VILA DOS REMÉDIOS",Atendida,F,16,Vítima ilesa,2023,outubro
+2023-10-21,1900-01-01 09:40:00,PESSOALMENTE,Fernando de Noronha,"PRAIA DO CACHORRO, NA VILA DOS REMÉDIOS",Atendida,M,59,Vítima ilesa,2023,outubro
+2023-10-22,1900-01-01 09:40:00,PESSOALMENTE,Fernando de Noronha,"PRAIA DO CACHORRO, NA VILA DOS REMÉDIOS",Atendida,Não identificado,,Vítima ilesa,2023,outubro
+2023-10-22,1900-01-01 07:40:00,PESSOALMENTE,Fernando de Noronha,"PRAIA DO CACHORRO, NA VILA DOS REMÉDIOS",Atendida,Não identificado,,Vítima ilesa,2023,outubro
+2023-10-22,1900-01-01 14:00:00,PESSOALMENTE,Fernando de Noronha,"PRAIA DO CACHORRO, NA VILA DOS REMÉDIOS",Atendida,Não identificado,,,2023,outubro
+2023-10-22,1900-01-01 14:17:00,PESSOALMENTE,Fernando de Noronha,"PRAIA DO CACHORRO, NA VILA DOS REMÉDIOS",Atendida,Não identificado,,,2023,outubro
+2023-10-22,1900-01-01 15:02:00,PESSOALMENTE,Fernando de Noronha,"PRAIA DO CACHORRO, NA VILA DOS REMÉDIOS",Atendida,Não identificado,,Vítima ilesa,2023,outubro
+2023-10-22,1900-01-01 15:22:00,PESSOALMENTE,Fernando de Noronha,"PRAIA DO CACHORRO, NA VILA DOS REMÉDIOS",Atendida,Não identificado,,Vítima ilesa,2023,outubro
+2023-10-22,1900-01-01 15:42:00,PESSOALMENTE,Fernando de Noronha,"PRAIA DO CACHORRO, NA VILA DOS REMÉDIOS",Atendida,Não identificado,,Vítima ilesa,2023,outubro
+2023-10-22,1900-01-01 16:02:00,PESSOALMENTE,Fernando de Noronha,"PRAIA DO CACHORRO, NA VILA DOS REMÉDIOS",Atendida,Não identificado,,Vítima ilesa,2023,outubro
+2023-10-22,1900-01-01 16:32:00,PESSOALMENTE,Fernando de Noronha,"PRAIA DO CACHORRO, NA VILA DOS REMÉDIOS",Atendida,Não identificado,,Vítima ilesa,2023,outubro
+2023-10-22,1900-01-01 16:52:00,PESSOALMENTE,Fernando de Noronha,"PRAIA DO CACHORRO, NA VILA DOS REMÉDIOS",Atendida,Não identificado,,Vítima ilesa,2023,outubro
+2023-10-28,1900-01-01 09:45:00,PESSOALMENTE,Fernando de Noronha,"PRAIA DO CACHORRO, NA VILA DOS REMÉDIOS",Atendida,F,20,Vítima ilesa,2023,outubro
+2023-11-01,1900-01-01 15:00:00,PESSOALMENTE,Fernando de Noronha,"PRAIA DO CACHORRO, NA VILA DOS REMÉDIOS",Atendida,M,33,Vítima ilesa,2023,novembro
+2023-11-04,1900-01-01 15:30:00,PESSOALMENTE,Fernando de Noronha,"PRAIA DO CACHORRO, NA VILA DOS REMÉDIOS",Atendida,Não identificado,,,2023,novembro
+2023-11-05,1900-01-01 16:30:00,PESSOALMENTE,Fernando de Noronha,"PRAIA DO CACHORRO, NA VILA DOS REMÉDIOS",Atendida,F,31,Vítima ilesa,2023,novembro
+2023-11-15,1900-01-01 06:20:00,CO DO GRUPAMENTO,Sertânia,ZONA RURAL,Atendida,M,16,Vítima fatal,2023,novembro
+2023-11-16,1900-01-01 13:06:00,PESSOALMENTE,Fernando de Noronha,PRAIA DA CONCEIÇÃO OU DE ITALCABLE,Atendida,F,29,Vítima ilesa,2023,novembro
+2023-11-19,1900-01-01 07:00:00,PESSOALMENTE,Olinda,BAIRRO NOVO,Atendida,M,18,Vítima ilesa,2023,novembro
+2023-11-20,1900-01-01 06:20:00,PESSOALMENTE,Serra Talhada,ZONA RURAL,Atendida,M,34,Vítima fatal,2023,novembro
+2023-11-20,1900-01-01 16:22:00,PESSOALMENTE,Fernando de Noronha,"PRAIA DO CACHORRO, NA VILA DOS REMÉDIOS",Atendida,Não identificado,53,Vítima ferida,2023,novembro
+2023-11-29,1900-01-01 01:35:00,CIODS,Olinda,CASA CAIADA,Atendida,M,,Vítima ferida,2023,novembro
+2023-11-28,1900-01-01 16:21:00,CO DO GRUPAMENTO,Petrolina,ILHA DO FOGO,Atendida,F,15,Vítima ferida,2023,novembro
+2023-11-29,1900-01-01 07:00:00,PESSOALMENTE,Olinda,CASA CAIADA,Atendida,F,5,Vítima ferida,2023,novembro
+2023-12-01,1900-01-01 12:35:00,PESSOALMENTE,Fernando de Noronha,"PRAIA DO CACHORRO, NA VILA DOS REMÉDIOS",Atendida,F,44,Vítima ilesa,2023,dezembro
+2023-12-03,1900-01-01 16:40:00,PESSOALMENTE,Fernando de Noronha,BAÍA DE SANTO ANTÔNIO,Atendida,M,35,Vítima ilesa,2023,dezembro
+2023-12-03,1900-01-01 13:30:00,PESSOALMENTE,Fernando de Noronha,PRAIA DA CONCEIÇÃO OU DE ITALCABLE,Atendida,F,33,Vítima ilesa,2023,dezembro
+2023-12-07,1900-01-01 11:15:00,PESSOALMENTE,Jaboatão dos Guararapes,PIEDADE,Atendida,M,35,Vítima ilesa,2023,dezembro
+2023-12-09,,CO DO GRUPAMENTO,Bonito,CENTRO,Não Atendida,,,,2023,dezembro
+2023-12-15,1900-01-01 11:16:00,PESSOALMENTE,Fernando de Noronha,PRAIA DA CONCEIÇÃO OU DE ITALCABLE,Atendida,M,19,Vítima ilesa,2023,dezembro
+2023-12-18,,PESSOALMENTE,Pesqueira,ZONA RURAL,Não Atendida,,,,2023,dezembro
+2023-12-25,,PESSOALMENTE,Toritama,ZONA RURAL,Não Atendida,,,,2023,dezembro
+2023-12-28,1900-01-01 23:42:00,CIODS,Bezerros,SALGADO,Atendida,F,80,Vítima fatal,2023,dezembro
+2024-01-06,1900-01-01 09:20:00,CIODS,Paulista,MARIA FARINHA,Atendida,M,18,Vítima desaparecida,2024,janeiro
+2024-01-06,1900-01-01 16:05:00,CIODS,Paulista,MARIA FARINHA,Atendida,M,18,Vítima desaparecida,2024,janeiro
+2024-01-10,1900-01-01 09:50:00,PESSOALMENTE,Fernando de Noronha,PRAIA DA CONCEIÇÃO OU DE ITALCABLE,Atendida,M,22,Vítima ilesa,2024,janeiro
+2024-01-10,1900-01-01 07:30:00,PESSOALMENTE,Fernando de Noronha,PRAIA DA CONCEIÇÃO OU DE ITALCABLE,Atendida,F,23,Vítima ilesa,2024,janeiro
+2024-01-12,1900-01-01 13:10:00,PESSOALMENTE,Recife,BOA VIAGEM,Atendida,F,67,Vítima ilesa,2024,janeiro
+2024-01-13,1900-01-01 16:10:00,PESSOALMENTE,Fernando de Noronha,BAÍA DE SANTO ANTÔNIO,Atendida,M,41,Vítima ilesa,2024,janeiro
+2024-01-13,1900-01-01 16:10:00,PESSOALMENTE,Fernando de Noronha,BAÍA DE SANTO ANTÔNIO,Atendida,M,3,Vítima ilesa,2024,janeiro
+2024-01-26,1900-01-01 08:50:00,CIODS,Recife,BOA VIAGEM,Atendida,Não identificado,,,2024,janeiro
+2024-01-30,1900-01-01 12:10:00,PESSOALMENTE,Fernando de Noronha,PRAIA DA CONCEIÇÃO OU DE ITALCABLE,Atendida,M,14,Vítima ilesa,2024,janeiro
+2024-02-01,1900-01-01 16:00:00,OUTRO,Fernando de Noronha,"PRAIA DO BOLDRÓ, NA VILA BOLDRÓ",Atendida,M,59,Vítima ilesa,2024,fevereiro
+2024-02-10,,CO DO GRUPAMENTO,Recife,CABANGA,Não Atendida,,,,2024,fevereiro
+2024-02-12,1900-01-01 07:00:00,PESSOALMENTE,Olinda,BAIRRO NOVO,Atendida,M,20,Vítima ilesa,2024,fevereiro
+2024-02-14,1900-01-01 16:30:00,PESSOALMENTE,Fernando de Noronha,PRAIA DA CONCEIÇÃO OU DE ITALCABLE,Atendida,M,17,Vítima ilesa,2024,fevereiro
+2024-02-14,1900-01-01 16:38:00,PESSOALMENTE,Fernando de Noronha,PRAIA DA CONCEIÇÃO OU DE ITALCABLE,Atendida,M,32,Vítima ilesa,2024,fevereiro
+2024-02-14,1900-01-01 04:34:00,CO DO GRUPAMENTO,Recife,BOA VISTA,Atendida,Não identificado,,,2024,fevereiro
+2024-02-19,1900-01-01 11:30:00,PESSOALMENTE,Fernando de Noronha,BAÍA DE SANTO ANTÔNIO,Atendida,F,41,Vítima ilesa,2024,fevereiro
+2024-02-21,1900-01-01 15:23:00,CO DO GRUPAMENTO,Jaboatão dos Guararapes,DOIS CARNEIROS,Atendida,M,20,Vítima fatal,2024,fevereiro
+2024-02-24,1900-01-01 07:00:00,PESSOALMENTE,Olinda,BAIRRO NOVO,Atendida,M,48,Vítima ilesa,2024,fevereiro
+2024-03-08,1900-01-01 10:30:00,PESSOALMENTE,Fernando de Noronha,PRAIA DA CONCEIÇÃO OU DE ITALCABLE,Atendida,F,42,Vítima ilesa,2024,março
+2024-03-10,1900-01-01 14:02:00,PESSOALMENTE,Fernando de Noronha,PRAIA DA CONCEIÇÃO OU DE ITALCABLE,Atendida,F,58,Vítima ilesa,2024,março
+2024-03-18,1900-01-01 15:20:00,PESSOALMENTE,Fernando de Noronha,BAÍA DE SANTO ANTÔNIO,Atendida,F,29,Vítima ilesa,2024,março
+2024-03-18,1900-01-01 15:20:00,PESSOALMENTE,Fernando de Noronha,BAÍA DE SANTO ANTÔNIO,Atendida,F,31,Vítima ilesa,2024,março
+2024-03-29,1900-01-01 09:30:00,CO DO GRUPAMENTO,Fernando de Noronha,PRAIA DA CONCEIÇÃO OU DE ITALCABLE,Atendida,F,18,Vítima ilesa,2024,março
+2024-03-30,,CO DO GRUPAMENTO,Recife,SANTO ANTÔNIO,Não Atendida,,,,2024,março
+2024-04-15,1900-01-01 09:40:00,CO DO GRUPAMENTO,Fernando de Noronha,BAÍA DE SANTO ANTÔNIO,Atendida,M,58,Vítima ilesa,2024,abril
+2024-04-19,1900-01-01 09:40:00,PESSOALMENTE,Fernando de Noronha,BAÍA DO SANCHO,Atendida,M,27,Vítima ilesa,2024,abril
+2024-04-28,1900-01-01 07:53:00,CIODS,Jaboatão dos Guararapes,SANTANA,Atendida,M,41,Vítima fatal,2024,abril
+2024-05-01,1900-01-01 07:30:00,PESSOALMENTE,Olinda,BAIRRO NOVO,Atendida,M,17,Vítima ilesa,2024,maio
+2024-05-03,1900-01-01 22:30:00,CIODS,Recife,IBURA,Atendida,M,,Vítima fatal,2024,maio
+2024-05-09,1900-01-01 10:40:00,OUTRO,Fernando de Noronha,BAÍA DO SANCHO,Atendida,M,47,Vítima ilesa,2024,maio
+2024-05-19,1900-01-01 09:45:00,OUTRO,Fernando de Noronha,PRAIA DA CONCEIÇÃO OU DE ITALCABLE,Atendida,F,42,Vítima ilesa,2024,maio
+2024-06-05,1900-01-01 07:30:00,PESSOALMENTE,Recife,PINA,Atendida,M,16,Vítima ilesa,2024,junho
+2024-06-16,1900-01-01 16:50:00,CIODS,Jaboatão dos Guararapes,CANDEIAS,Atendida,M,24,Vítima ilesa,2024,junho
+2024-06-16,,CO DO GRUPAMENTO,Jaboatão dos Guararapes,CANDEIAS,Não Atendida,,,,2024,junho
+2024-06-22,1900-01-01 11:09:00,PESSOALMENTE,Olinda,BAIRRO NOVO,Atendida,M,30,Vítima ilesa,2024,junho
+2024-06-22,1900-01-01 11:09:00,PESSOALMENTE,Olinda,BAIRRO NOVO,Atendida,M,19,Vítima ilesa,2024,junho
+2024-06-28,1900-01-01 09:00:00,OUTRO,Olinda,CASA CAIADA,Atendida,M,65,Vítima ilesa,2024,junho
+2024-06-28,1900-01-01 07:35:00,OUTRO,Recife,BOA VIAGEM,Atendida,M,70,Vítima ilesa,2024,junho
+2024-06-29,1900-01-01 15:15:00,PESSOALMENTE,Olinda,BAIRRO NOVO,Atendida,M,16,Vítima ilesa,2024,junho
+2024-06-30,1900-01-01 15:20:00,PESSOALMENTE,Olinda,CASA CAIADA,Atendida,M,50,Vítima ilesa,2024,junho
+2024-06-30,1900-01-01 15:20:00,PESSOALMENTE,Olinda,CASA CAIADA,Atendida,F,14,Vítima ilesa,2024,junho
+2024-06-30,1900-01-01 15:20:00,PESSOALMENTE,Olinda,CASA CAIADA,Atendida,F,14,Vítima ilesa,2024,junho
+2024-06-30,1900-01-01 15:20:00,PESSOALMENTE,Olinda,CASA CAIADA,Atendida,F,14,Vítima ilesa,2024,junho
+2024-07-10,1900-01-01 08:00:00,OUTRO,Olinda,CASA CAIADA,Atendida,M,27,Vítima ilesa,2024,julho
+2024-07-10,1900-01-01 08:00:00,OUTRO,Olinda,CASA CAIADA,Atendida,M,16,Vítima ilesa,2024,julho
+2024-07-14,1900-01-01 07:00:00,OUTRO,Olinda,BAIRRO NOVO,Atendida,M,17,Vítima ilesa,2024,julho
+2024-07-19,1900-01-01 07:00:00,PESSOALMENTE,Recife,PINA,Atendida,F,30,Vítima ilesa,2024,julho
+2024-07-26,1900-01-01 09:40:00,PESSOALMENTE,Fernando de Noronha,BAÍA DE SANTO ANTÔNIO,Atendida,M,47,Vítima ilesa,2024,julho
+2024-08-03,1900-01-01 07:00:00,PESSOALMENTE,Recife,BOA VIAGEM,Atendida,M,31,Vítima ilesa,2024,agosto
+2024-01-01,,CO DO GRUPAMENTO,Garanhuns,ZONA RURAL,Não Atendida,,,,2024,janeiro
+2024-01-21,,CO DO GRUPAMENTO,Bezerros,ZONA RURAL,Não Atendida,,,,2024,janeiro
+2024-01-29,1900-01-01 10:20:00,CO DO GRUPAMENTO,Garanhuns,MAGANO,Atendida,M,20,Vítima fatal,2024,janeiro
+2024-02-21,,CO DO GRUPAMENTO,Palmares,ZONA RURAL,Não Atendida,,,,2024,fevereiro
+2024-03-22,1900-01-01 15:40:00,CO DO GRUPAMENTO,Lagoa dos Gatos,SITIO TAMBOR,Atendida,M,57,Vítima fatal,2024,março
+2024-03-24,1900-01-01 15:33:00,CO DO GRUPAMENTO,Caruaru,ZONA RURAL,Atendida,M,27,Vítima fatal,2024,março
+2024-04-10,,PESSOALMENTE,Carpina,BAIRRO NOVO,Não Atendida,,,,2024,abril
+2024-05-05,1900-01-01 17:32:00,PESSOALMENTE,Bom Conselho,SITIO RIACHO DO BARRO,Atendida,M,13,Vítima fatal,2024,maio
+2024-05-06,1900-01-01 08:20:00,CO DO GRUPAMENTO,São Caetano,ZONA RURAL,Atendida,M,34,Vítima fatal,2024,maio
+2024-05-06,,CO DO GRUPAMENTO,Bom Conselho,SITIO RIACHO DO BARRO,Não Atendida,,,,2024,maio
+2024-06-08,1900-01-01 10:53:00,CIODS,Lagoa de Itaenga,ZONA RURAL,Atendida,M,19,Vítima fatal,2024,junho
+2024-07-01,1900-01-01 08:44:00,OUTRO,Santa Cruz do Capibaribe,MALHADA DO MEIO,Atendida,M,19,Vítima fatal,2024,julho
+2024-07-26,1900-01-01 09:40:00,PESSOALMENTE,Bom Conselho,CENTRO,Atendida,M,18,Vítima desaparecida,2024,julho
+2024-07-30,1900-01-01 17:10:00,CO DO GRUPAMENTO,Panelas,VILA CRUZ DE PANELAS,Atendida,M,28,Vítima fatal,2024,julho
+2024-08-06,1900-01-01 09:33:00,CO DO GRUPAMENTO,Bom Jardim,ZONA RURAL,Atendida,M,30,Vítima fatal,2024,agosto
+2024-01-17,1900-01-01 11:41:00,CO DO GRUPAMENTO,Petrolina,JUAZEIRO-BA,Atendida,M,28,Vítima ferida,2024,janeiro
+2024-01-21,,PESSOALMENTE,Petrolândia,CENTRO,Não Atendida,,,,2024,janeiro
+2024-02-05,1900-01-01 10:00:00,OUTRO,Tupanatinga,DISTRITO BOQUEIRÃO,Atendida,M,,Vítima fatal,2024,fevereiro
+2024-02-08,1900-01-01 13:24:00,CO DO GRUPAMENTO,Arcoverde,ZONA RURAL,Atendida,M,,Vítima fatal,2024,fevereiro
+2024-02-12,1900-01-01 08:31:00,PESSOALMENTE,Arcoverde,ZONA RURAL,Atendida,M,20,Vítima fatal,2024,fevereiro
+2024-03-01,1900-01-01 12:59:00,PESSOALMENTE,Petrolândia,CENTRO,Atendida,M,39,Vítima fatal,2024,março
+2024-03-01,,CO DO GRUPAMENTO,Floresta,ZONA RURAL,Não Atendida,,,,2024,março
+2024-03-03,1900-01-01 11:07:00,CO DO GRUPAMENTO,Petrolina,PORTO DA ILHA,Atendida,F,22,Vítima fatal,2024,março
+2024-03-03,1900-01-01 18:12:00,CO DO GRUPAMENTO,Petrolina,CENTRO - ILHA DO FOGO,Atendida,M,19,Vítima fatal,2024,março
+2024-04-04,1900-01-01 09:50:00,PESSOALMENTE,Petrolina,JOÃO DE DEUS,Atendida,M,64,Vítima ilesa,2024,abril
+2024-04-13,1900-01-01 14:58:00,CO DO GRUPAMENTO,Serra Talhada,ZONA RURAL,Atendida,M,18,Vítima fatal,2024,abril
+2024-03-14,1900-01-01 16:45:00,CO DO GRUPAMENTO,Afogados da Ingazeira,SÍTIO QUIXABA DOS LIBERAIS,Atendida,M,36,Vítima ilesa,2024,março
+2024-04-21,,CO DO GRUPAMENTO,Bodocó,ZONA RURAL,Não Atendida,,,,2024,abril
+2024-06-25,1900-01-01 10:55:00,CO DO GRUPAMENTO,Serra Talhada,SANTA RITA,Atendida,M,77,Vítima fatal,2024,junho
+2024-08-31,1900-01-01 07:00:00,PESSOALMENTE,Olinda,BAIRRO NOVO,Atendida,M,16,Vítima ilesa,2024,agosto
+2024-09-01,1900-01-01 12:20:00,CIODS,Recife,BOA VIAGEM,Atendida,M,77,Vítima fatal,2024,setembro
+2024-09-01,1900-01-01 12:45:00,PESSOALMENTE,Recife,PINA,Atendida,M,11,Vítima ilesa,2024,setembro
+2024-09-01,1900-01-01 12:45:00,PESSOALMENTE,Recife,PINA,Atendida,M,8,Vítima ilesa,2024,setembro
+2024-09-01,1900-01-01 16:40:00,CIODS,Recife,RECIFE (BAIRRO),Atendida,Não identificado,,,2024,setembro
+2024-09-01,1900-01-01 15:08:00,OUTRO,Olinda,CASA CAIADA,Atendida,M,37,Vítima ilesa,2024,setembro
+2024-09-01,1900-01-01 15:08:00,OUTRO,Olinda,CASA CAIADA,Atendida,M,14,Vítima ilesa,2024,setembro
+2024-09-01,1900-01-01 15:08:00,OUTRO,Olinda,CASA CAIADA,Atendida,M,12,Vítima ilesa,2024,setembro
+2024-09-01,1900-01-01 15:08:00,OUTRO,Olinda,CASA CAIADA,Atendida,M,13,Vítima ilesa,2024,setembro
+2024-09-03,1900-01-01 07:00:00,OUTRO,Recife,BOA VIAGEM,Atendida,M,20,Vítima ilesa,2024,setembro
+2024-09-07,1900-01-01 14:10:00,OUTRO,Olinda,BAIRRO NOVO,Atendida,F,50,Vítima ilesa,2024,setembro
+2024-09-07,1900-01-01 14:10:00,OUTRO,Olinda,BAIRRO NOVO,Atendida,F,56,Vítima ilesa,2024,setembro
+2024-09-07,1900-01-01 14:10:00,OUTRO,Olinda,BAIRRO NOVO,Atendida,M,11,Vítima ilesa,2024,setembro
+2024-09-07,1900-01-01 14:10:00,OUTRO,Olinda,BAIRRO NOVO,Atendida,M,39,Vítima ilesa,2024,setembro
+2024-09-24,1900-01-01 09:40:00,CO DO GRUPAMENTO,Fernando de Noronha,"PRAIA DO CACHORRO, NA VILA DOS REMÉDIOS",Atendida,M,30,Vítima ilesa,2024,setembro
+2024-09-26,1900-01-01 14:00:00,OUTRO,Olinda,BAIRRO NOVO,Atendida,M,13,Vítima ilesa,2024,setembro
+2024-10-02,,CO DO GRUPAMENTO,Recife,BOA VIAGEM,Não Atendida,,,,2024,outubro
+2024-10-03,1900-01-01 08:30:00,PESSOALMENTE,Olinda,BAIRRO NOVO,Atendida,M,16,Vítima ilesa,2024,outubro
+2024-10-06,1900-01-01 13:15:00,PESSOALMENTE,Recife,BOA VIAGEM,Atendida,M,9,Vítima ilesa,2024,outubro
+2024-10-06,1900-01-01 13:15:00,PESSOALMENTE,Recife,BOA VIAGEM,Atendida,M,10,Vítima ilesa,2024,outubro
+2024-10-10,1900-01-01 07:00:00,PESSOALMENTE,Olinda,BAIRRO NOVO,Atendida,M,18,Vítima ilesa,2024,outubro
+2024-10-10,1900-01-01 13:30:00,OUTRO,Olinda,CASA CAIADA,Atendida,F,12,Vítima ilesa,2024,outubro
+2024-10-25,1900-01-01 07:00:00,OUTRO,Olinda,BAIRRO NOVO,Atendida,M,16,Vítima ilesa,2024,outubro
+2024-11-06,1900-01-01 14:15:00,PESSOALMENTE,Fernando de Noronha,PRAIA DA CONCEIÇÃO OU DE ITALCABLE,Atendida,M,43,Vítima ilesa,2024,novembro
+2024-11-06,1900-01-01 14:40:00,PESSOALMENTE,Fernando de Noronha,"PRAIA DO CACHORRO, NA VILA DOS REMÉDIOS",Atendida,M,26,Vítima ilesa,2024,novembro
+2024-11-12,1900-01-01 09:40:00,PESSOALMENTE,Fernando de Noronha,"PRAIA DO CACHORRO, NA VILA DOS REMÉDIOS",Atendida,F,35,Vítima ilesa,2024,novembro
+2024-11-17,1900-01-01 14:35:00,PESSOALMENTE,Recife,BOA VIAGEM,Atendida,F,19,Vítima ilesa,2024,novembro
+2024-11-17,1900-01-01 14:35:00,PESSOALMENTE,Recife,BOA VIAGEM,Atendida,F,19,Vítima ilesa,2024,novembro
+2024-11-20,1900-01-01 13:38:00,CO DO GRUPAMENTO,Fernando de Noronha,"PRAIA DO CACHORRO, NA VILA DOS REMÉDIOS",Atendida,F,53,Vítima ilesa,2024,novembro
+2024-11-20,1900-01-01 13:00:00,PESSOALMENTE,Recife,PINA,Atendida,M,40,Vítima ilesa,2024,novembro
+2024-11-20,1900-01-01 12:30:00,PESSOALMENTE,Fernando de Noronha,PRAIA DA CONCEIÇÃO OU DE ITALCABLE,Atendida,F,29,Vítima ilesa,2024,novembro
+2024-11-20,1900-01-01 15:30:00,PESSOALMENTE,Fernando de Noronha,PRAIA DA CONCEIÇÃO OU DE ITALCABLE,Atendida,F,50,Vítima ilesa,2024,novembro
+2024-11-21,1900-01-01 09:40:00,PESSOALMENTE,Fernando de Noronha,"PRAIA DO CACHORRO, NA VILA DOS REMÉDIOS",Atendida,Não identificado,,,2024,novembro
+2024-11-24,1900-01-01 12:00:00,PESSOALMENTE,Recife,PINA,Atendida,M,7,Vítima ilesa,2024,novembro
+2024-11-15,1900-01-01 13:50:00,CO DO GRUPAMENTO,Bom Conselho,ZONA RURAL ,Atendida,M,48,Vítima desaparecida,2024,novembro
+2024-11-10,1900-01-01 16:40:00,OUTRO,Bom Conselho,ZONA RURAL,Atendida,M,,Vítima desaparecida,2024,novembro
+2024-11-03,,CO DO GRUPAMENTO,Bezerros,ZONA RURAL,Não Atendida,,,,2024,novembro
+2024-09-23,,CO DO GRUPAMENTO,Belo Jardim,ZONA RURAL,Não Atendida,,,,2024,setembro
+2024-09-23,,CO DO GRUPAMENTO,Belo Jardim,ZONA RURAL,Não Atendida,,,,2024,setembro
+2024-09-05,1900-01-01 21:30:00,OUTRO,Terezinha,ZONA RURAL,Atendida,M,62,Vítima fatal,2024,setembro
+2024-08-23,1900-01-01 08:47:00,CO DO GRUPAMENTO,Santa Cruz do Capibaribe,SANTO AGOSTINHO,Atendida,M,38,Vítima fatal,2024,agosto
+2024-09-07,1900-01-01 11:29:00,CO DO GRUPAMENTO,Afogados da Ingazeira,ZONA RURAL ,Atendida,M,15,Vítima fatal,2024,setembro
+2024-09-21,1900-01-01 06:10:00,CIODS,Manari,CENTRO,Atendida,M,21,Vítima desaparecida,2024,setembro
+2024-10-07,1900-01-01 11:45:00,PESSOALMENTE,Petrolina,ZONA RURAL,Atendida,M,43,Vítima desaparecida,2024,outubro
+2024-10-12,1900-01-01 09:10:00,CIODS,Custódia,ZONA RURAL,Atendida,M,44,Vítima fatal,2024,outubro
+2024-10-13,1900-01-01 16:06:00,CO DO GRUPAMENTO,Afogados da Ingazeira,ZONA RURAL,Atendida,M,18,Vítima fatal,2024,outubro
+2024-11-03,1900-01-01 10:51:00,CO DO GRUPAMENTO,Petrolina,ZONA RURAL,Atendida,Não identificado,,,2024,novembro
+2024-11-15,1900-01-01 19:12:00,OUTRO,Iguaraci,ZONA RURAL ,Atendida,M,,Vítima desaparecida,2024,novembro
