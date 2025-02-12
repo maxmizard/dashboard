@@ -65,7 +65,7 @@ st.markdown(
 #=================== GRÁFICO 01 ===================
 
 # Definir espaços dos gráficos 1 e 2:
-col1, col2 = st.columns(2)
+col1, col2 = st.columns([0.4,0.7])
 
 # Criar tabela:
 df_historico = df_afogamentos.groupby('ano')['mês'].count().reset_index().rename(columns={'mês': 'Qtd. Afogamentos'})
@@ -83,7 +83,7 @@ fig_grafico_1.update_layout(showlegend=False)
 fig_grafico_1.update_layout(bargap=0.5)
 fig_grafico_1.update_layout(xaxis_title='')
 fig_grafico_1.update_layout(yaxis_title='Quantidade de acionamentos')
-fig_grafico_1.update_layout(title="Registros de Afogamentos por Ano", title_x=0.3, title_font=dict(size=20))
+fig_grafico_1.update_layout(title="Afogamentos por Ano", title_x=0.4, title_font=dict(size=20))
 fig_grafico_1.update_layout(height=500)
 fig_grafico_1.update_layout(width=300)
 
@@ -154,7 +154,7 @@ fig_grafico_2.update_traces(texttemplate='%{y:.2f}', textposition='outside')
 fig_grafico_2.update_layout(bargap=0.1)
 fig_grafico_2.update_layout(xaxis_title='')
 fig_grafico_2.update_layout(yaxis_title='Quantidade de acionamentos (%)')
-fig_grafico_2.update_layout(title="Registros de Afogamentos por Período do Dia", title_x=0.2, title_font=dict(size=20))
+fig_grafico_2.update_layout(title="Afogamentos por Período do Dia", title_x=0.3, title_font=dict(size=20))
 fig_grafico_2.update_layout(height=500)
 fig_grafico_2.update_layout(width=300)
 
@@ -204,7 +204,7 @@ fig_grafico_3.update_traces(line_width=3)
 
 fig_grafico_3.update_layout(xaxis_title='')
 fig_grafico_3.update_layout(yaxis_title='Quantidade de acionamentos')
-fig_grafico_3.update_layout(title="Registros de Afogamentos por Mês", title_x=0.37, title_font=dict(size=20))
+fig_grafico_3.update_layout(title="Afogamentos por Mês", title_x=0.42, title_font=dict(size=20))
 fig_grafico_3.update_layout(height=500)
 fig_grafico_3.update_layout(width=800)
 
@@ -214,7 +214,7 @@ with st.container():
 #=================== GRÁFICO 04 ===================
 
 # Definir espaços dos gráficos 4 e 5:
-col4, col5 = st.columns(2)
+col4, col5 = st.columns([0.6,0.4])
 
 # Vamos criar tabelas com a situação das vítimas em cada um dos anos:
 # OBS: Aqui devemos atentar para os valores nulos (onde não foi informada a classificação da vítima).
@@ -277,7 +277,7 @@ fig_grafico_4.update_traces(texttemplate='%{y}', textposition='outside')
 fig_grafico_4.update_layout(bargap=0.3)
 fig_grafico_4.update_layout(xaxis_title='')
 fig_grafico_4.update_layout(yaxis_title='Quantidade de acionamentos')
-fig_grafico_4.update_layout(title="Registros de Afogamentos pela Classificação da Vítima", title_x=0.1, title_font=dict(size=20))
+fig_grafico_4.update_layout(title="Afogamentos pela Classificação da Vítima", title_x=0.3, title_font=dict(size=20))
 fig_grafico_4.update_layout(height=500)
 fig_grafico_4.update_layout(width=800)
 
@@ -355,7 +355,7 @@ fig_grafico_5.update_yaxes(showgrid=False)
 
 fig_grafico_5.update_traces(texttemplate='%{y}', textposition='outside')
 
-fig_grafico_5.update_layout(title="Registros de Vítimas Fatais de Afogamentos por Sexo",
+fig_grafico_5.update_layout(title="Vítimas Fatais de Afogamentos por Sexo",
                   title_x=0.1,
                   title_font=dict(size=20),
                   xaxis_title='',
